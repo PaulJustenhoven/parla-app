@@ -1,0 +1,8656 @@
+{
+ "decks": [
+  {
+   "id": "a1.deck_food",
+   "level": "A1",
+   "title": "Essen & Trinken",
+   "emoji": "🍝",
+   "words": [
+    {
+     "it": "il cibo",
+     "de": "das Essen"
+    },
+    {
+     "it": "la bevanda",
+     "de": "das Getränk"
+    },
+    {
+     "it": "bere",
+     "de": "trinken"
+    },
+    {
+     "it": "la fame",
+     "de": "der Hunger"
+    },
+    {
+     "it": "la sete",
+     "de": "der Durst"
+    },
+    {
+     "it": "la pasta",
+     "de": "die Nudeln / der Teig"
+    },
+    {
+     "it": "il riso",
+     "de": "der Reis"
+    },
+    {
+     "it": "la patata",
+     "de": "die Kartoffel"
+    },
+    {
+     "it": "la carota",
+     "de": "die Karotte"
+    },
+    {
+     "it": "il pollo",
+     "de": "das Hähnchen"
+    },
+    {
+     "it": "il manzo",
+     "de": "das Rindfleisch"
+    },
+    {
+     "it": "il maiale",
+     "de": "das Schwein(efleisch)"
+    },
+    {
+     "it": "la salsiccia",
+     "de": "die Wurst"
+    },
+    {
+     "it": "il tè",
+     "de": "der Tee"
+    },
+    {
+     "it": "il succo",
+     "de": "der Saft"
+    },
+    {
+     "it": "lo yogurt",
+     "de": "der Joghurt"
+    },
+    {
+     "it": "la marmellata",
+     "de": "die Marmelade"
+    },
+    {
+     "it": "il miele",
+     "de": "der Honig"
+    },
+    {
+     "it": "la torta",
+     "de": "der Kuchen / die Torte"
+    },
+    {
+     "it": "il dolce",
+     "de": "die Süßspeise / der Nachtisch"
+    },
+    {
+     "it": "il cioccolato",
+     "de": "die Schokolade"
+    },
+    {
+     "it": "l'arancia",
+     "de": "die Orange"
+    },
+    {
+     "it": "la banana",
+     "de": "die Banane"
+    },
+    {
+     "it": "la pera",
+     "de": "die Birne"
+    },
+    {
+     "it": "l'uva",
+     "de": "die Weintrauben"
+    },
+    {
+     "it": "la fragola",
+     "de": "die Erdbeere"
+    },
+    {
+     "it": "il limone",
+     "de": "die Zitrone"
+    },
+    {
+     "it": "il piatto",
+     "de": "der Teller / das Gericht"
+    },
+    {
+     "it": "il bicchiere",
+     "de": "das Glas"
+    },
+    {
+     "it": "la tazza",
+     "de": "die Tasse"
+    },
+    {
+     "it": "la forchetta",
+     "de": "die Gabel"
+    },
+    {
+     "it": "il coltello",
+     "de": "das Messer"
+    },
+    {
+     "it": "il menù",
+     "de": "die Speisekarte"
+    },
+    {
+     "it": "la zuppa",
+     "de": "die Suppe"
+    },
+    {
+     "it": "il cetriolo",
+     "de": "die Gurke"
+    },
+    {
+     "it": "la melanzana",
+     "de": "die Aubergine"
+    },
+    {
+     "it": "il peperone",
+     "de": "die Paprika"
+    },
+    {
+     "it": "il salame",
+     "de": "die Salami"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_body_clothes",
+   "level": "A1",
+   "title": "Körper & Kleidung",
+   "emoji": "👕",
+   "words": [
+    {
+     "it": "il corpo",
+     "de": "der Körper"
+    },
+    {
+     "it": "il viso",
+     "de": "das Gesicht"
+    },
+    {
+     "it": "l'occhio",
+     "de": "das Auge"
+    },
+    {
+     "it": "il naso",
+     "de": "die Nase"
+    },
+    {
+     "it": "la bocca",
+     "de": "der Mund"
+    },
+    {
+     "it": "l'orecchio",
+     "de": "das Ohr"
+    },
+    {
+     "it": "il dente",
+     "de": "der Zahn"
+    },
+    {
+     "it": "la pancia",
+     "de": "der Bauch"
+    },
+    {
+     "it": "il labbro",
+     "de": "die Lippe"
+    },
+    {
+     "it": "il berretto",
+     "de": "die Mütze"
+    },
+    {
+     "it": "la cintura",
+     "de": "der Gürtel"
+    },
+    {
+     "it": "il cappotto",
+     "de": "der Mantel"
+    },
+    {
+     "it": "il maglione",
+     "de": "der Pullover"
+    },
+    {
+     "it": "i calzini",
+     "de": "die Socken"
+    },
+    {
+     "it": "gli stivali",
+     "de": "die Stiefel"
+    },
+    {
+     "it": "i jeans",
+     "de": "die Jeans"
+    },
+    {
+     "it": "l'ombrello",
+     "de": "der Regenschirm"
+    },
+    {
+     "it": "gli occhiali",
+     "de": "die Brille"
+    },
+    {
+     "it": "la sciarpa",
+     "de": "der Schal"
+    },
+    {
+     "it": "i guanti",
+     "de": "die Handschuhe"
+    },
+    {
+     "it": "il costume da bagno",
+     "de": "der Badeanzug"
+    },
+    {
+     "it": "l'orologio",
+     "de": "die Uhr"
+    },
+    {
+     "it": "la cravatta",
+     "de": "die Krawatte"
+    },
+    {
+     "it": "il pigiama",
+     "de": "der Schlafanzug"
+    },
+    {
+     "it": "la tasca",
+     "de": "die Hosentasche"
+    },
+    {
+     "it": "la moda",
+     "de": "die Mode"
+    },
+    {
+     "it": "indossare",
+     "de": "tragen (Kleidung)"
+    },
+    {
+     "it": "mettersi",
+     "de": "anziehen"
+    },
+    {
+     "it": "togliersi",
+     "de": "ausziehen"
+    },
+    {
+     "it": "la fronte",
+     "de": "die Stirn"
+    },
+    {
+     "it": "la guancia",
+     "de": "die Wange"
+    },
+    {
+     "it": "la barba",
+     "de": "der Bart"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_city",
+   "level": "A1",
+   "title": "Stadt & Verkehr",
+   "emoji": "🚦",
+   "words": [
+    {
+     "it": "la via",
+     "de": "die Straße (Adresse)"
+    },
+    {
+     "it": "il centro",
+     "de": "das Zentrum"
+    },
+    {
+     "it": "la banca",
+     "de": "die Bank"
+    },
+    {
+     "it": "la posta",
+     "de": "die Post"
+    },
+    {
+     "it": "l'ospedale",
+     "de": "das Krankenhaus"
+    },
+    {
+     "it": "il supermercato",
+     "de": "der Supermarkt"
+    },
+    {
+     "it": "la fontana",
+     "de": "der Brunnen"
+    },
+    {
+     "it": "il bar",
+     "de": "die Bar / das Café"
+    },
+    {
+     "it": "il parco",
+     "de": "der Park"
+    },
+    {
+     "it": "l'angolo",
+     "de": "die Ecke"
+    },
+    {
+     "it": "la fermata",
+     "de": "die Haltestelle"
+    },
+    {
+     "it": "il taxi",
+     "de": "das Taxi"
+    },
+    {
+     "it": "la moto",
+     "de": "das Motorrad"
+    },
+    {
+     "it": "il tram",
+     "de": "die Straßenbahn"
+    },
+    {
+     "it": "la nave",
+     "de": "das Schiff"
+    },
+    {
+     "it": "l'aeroporto",
+     "de": "der Flughafen"
+    },
+    {
+     "it": "la mappa",
+     "de": "der Stadtplan / die Karte"
+    },
+    {
+     "it": "l'edificio",
+     "de": "das Gebäude"
+    },
+    {
+     "it": "la biblioteca",
+     "de": "die Bibliothek"
+    },
+    {
+     "it": "la polizia",
+     "de": "die Polizei"
+    },
+    {
+     "it": "lontano",
+     "de": "weit (weg)"
+    },
+    {
+     "it": "girare",
+     "de": "abbiegen / drehen"
+    },
+    {
+     "it": "attraversare",
+     "de": "überqueren"
+    },
+    {
+     "it": "il castello",
+     "de": "die Burg / das Schloss"
+    },
+    {
+     "it": "la torre",
+     "de": "der Turm"
+    },
+    {
+     "it": "il duomo",
+     "de": "der Dom"
+    },
+    {
+     "it": "la gelateria",
+     "de": "die Eisdiele"
+    },
+    {
+     "it": "la zona",
+     "de": "die Gegend / Zone"
+    },
+    {
+     "it": "il viale",
+     "de": "die Allee"
+    },
+    {
+     "it": "il motorino",
+     "de": "der Motorroller"
+    },
+    {
+     "it": "il camion",
+     "de": "der Lastwagen"
+    },
+    {
+     "it": "la panchina",
+     "de": "die Sitzbank"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_home",
+   "level": "A1",
+   "title": "Haus & Alltag",
+   "emoji": "🏠",
+   "words": [
+    {
+     "it": "l'appartamento",
+     "de": "die Wohnung"
+    },
+    {
+     "it": "la stanza",
+     "de": "das Zimmer"
+    },
+    {
+     "it": "il giardino",
+     "de": "der Garten"
+    },
+    {
+     "it": "il balcone",
+     "de": "der Balkon"
+    },
+    {
+     "it": "il tetto",
+     "de": "das Dach"
+    },
+    {
+     "it": "le scale",
+     "de": "die Treppe"
+    },
+    {
+     "it": "il corridoio",
+     "de": "der Flur"
+    },
+    {
+     "it": "l'ingresso",
+     "de": "der Eingang"
+    },
+    {
+     "it": "il frigorifero",
+     "de": "der Kühlschrank"
+    },
+    {
+     "it": "la televisione",
+     "de": "das Fernsehen"
+    },
+    {
+     "it": "il telefono",
+     "de": "das Telefon"
+    },
+    {
+     "it": "il computer",
+     "de": "der Computer"
+    },
+    {
+     "it": "la luce",
+     "de": "das Licht"
+    },
+    {
+     "it": "il sapone",
+     "de": "die Seife"
+    },
+    {
+     "it": "l'asciugamano",
+     "de": "das Handtuch"
+    },
+    {
+     "it": "lo specchio",
+     "de": "der Spiegel"
+    },
+    {
+     "it": "lo spazzolino",
+     "de": "die Zahnbürste"
+    },
+    {
+     "it": "il cuscino",
+     "de": "das Kissen"
+    },
+    {
+     "it": "la coperta",
+     "de": "die Decke"
+    },
+    {
+     "it": "la sveglia",
+     "de": "der Wecker"
+    },
+    {
+     "it": "la lettera",
+     "de": "der Brief"
+    },
+    {
+     "it": "la carta",
+     "de": "das Papier"
+    },
+    {
+     "it": "la penna",
+     "de": "der Kugelschreiber"
+    },
+    {
+     "it": "la scatola",
+     "de": "die Schachtel"
+    },
+    {
+     "it": "la cosa",
+     "de": "die Sache / das Ding"
+    },
+    {
+     "it": "il rumore",
+     "de": "der Lärm / das Geräusch"
+    },
+    {
+     "it": "chiudere",
+     "de": "schließen"
+    },
+    {
+     "it": "mettere",
+     "de": "legen / stellen"
+    },
+    {
+     "it": "usare",
+     "de": "benutzen"
+    },
+    {
+     "it": "la radio",
+     "de": "das Radio"
+    },
+    {
+     "it": "il cancello",
+     "de": "das Tor"
+    },
+    {
+     "it": "il pettine",
+     "de": "der Kamm"
+    },
+    {
+     "it": "il dentifricio",
+     "de": "die Zahnpasta"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_time",
+   "level": "A1",
+   "title": "Zeit & Kalender",
+   "emoji": "📅",
+   "words": [
+    {
+     "it": "il giorno",
+     "de": "der Tag"
+    },
+    {
+     "it": "la settimana",
+     "de": "die Woche"
+    },
+    {
+     "it": "la mattina",
+     "de": "der Morgen"
+    },
+    {
+     "it": "il pomeriggio",
+     "de": "der Nachmittag"
+    },
+    {
+     "it": "la sera",
+     "de": "der Abend"
+    },
+    {
+     "it": "il mezzogiorno",
+     "de": "der Mittag"
+    },
+    {
+     "it": "la mezzanotte",
+     "de": "die Mitternacht"
+    },
+    {
+     "it": "il minuto",
+     "de": "die Minute"
+    },
+    {
+     "it": "gennaio",
+     "de": "Januar"
+    },
+    {
+     "it": "febbraio",
+     "de": "Februar"
+    },
+    {
+     "it": "marzo",
+     "de": "März"
+    },
+    {
+     "it": "aprile",
+     "de": "April"
+    },
+    {
+     "it": "maggio",
+     "de": "Mai"
+    },
+    {
+     "it": "giugno",
+     "de": "Juni"
+    },
+    {
+     "it": "luglio",
+     "de": "Juli"
+    },
+    {
+     "it": "agosto",
+     "de": "August"
+    },
+    {
+     "it": "settembre",
+     "de": "September"
+    },
+    {
+     "it": "ottobre",
+     "de": "Oktober"
+    },
+    {
+     "it": "novembre",
+     "de": "November"
+    },
+    {
+     "it": "dicembre",
+     "de": "Dezember"
+    },
+    {
+     "it": "il calendario",
+     "de": "der Kalender"
+    },
+    {
+     "it": "il compleanno",
+     "de": "der Geburtstag"
+    },
+    {
+     "it": "la data",
+     "de": "das Datum"
+    },
+    {
+     "it": "dopodomani",
+     "de": "übermorgen"
+    },
+    {
+     "it": "stamattina",
+     "de": "heute Morgen"
+    },
+    {
+     "it": "il quarto",
+     "de": "das Viertel"
+    },
+    {
+     "it": "il Natale",
+     "de": "Weihnachten"
+    },
+    {
+     "it": "la Pasqua",
+     "de": "Ostern"
+    },
+    {
+     "it": "la stagione",
+     "de": "die Jahreszeit"
+    },
+    {
+     "it": "il tempo",
+     "de": "die Zeit / das Wetter"
+    },
+    {
+     "it": "la fine",
+     "de": "das Ende"
+    },
+    {
+     "it": "puntuale",
+     "de": "pünktlich"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_people",
+   "level": "A1",
+   "title": "Menschen & Beziehungen",
+   "emoji": "👨‍👩‍👧",
+   "words": [
+    {
+     "it": "la persona",
+     "de": "die Person"
+    },
+    {
+     "it": "la gente",
+     "de": "die Leute"
+    },
+    {
+     "it": "l'uomo",
+     "de": "der Mann / der Mensch"
+    },
+    {
+     "it": "la donna",
+     "de": "die Frau"
+    },
+    {
+     "it": "il bambino",
+     "de": "das Kind"
+    },
+    {
+     "it": "il signore",
+     "de": "der Herr"
+    },
+    {
+     "it": "la signora",
+     "de": "die Dame"
+    },
+    {
+     "it": "lo zio",
+     "de": "der Onkel"
+    },
+    {
+     "it": "la zia",
+     "de": "die Tante"
+    },
+    {
+     "it": "la famiglia",
+     "de": "die Familie"
+    },
+    {
+     "it": "la fidanzata",
+     "de": "die (feste) Freundin"
+    },
+    {
+     "it": "il nome",
+     "de": "der Name"
+    },
+    {
+     "it": "il cognome",
+     "de": "der Nachname"
+    },
+    {
+     "it": "l'età",
+     "de": "das Alter"
+    },
+    {
+     "it": "sposato",
+     "de": "verheiratet"
+    },
+    {
+     "it": "l'amore",
+     "de": "die Liebe"
+    },
+    {
+     "it": "incontrare",
+     "de": "treffen"
+    },
+    {
+     "it": "salutare",
+     "de": "grüßen"
+    },
+    {
+     "it": "baciare",
+     "de": "küssen"
+    },
+    {
+     "it": "il bacio",
+     "de": "der Kuss"
+    },
+    {
+     "it": "divorziato",
+     "de": "geschieden"
+    },
+    {
+     "it": "il papà",
+     "de": "der Papa"
+    },
+    {
+     "it": "la mamma",
+     "de": "die Mama"
+    },
+    {
+     "it": "vivere",
+     "de": "leben"
+    },
+    {
+     "it": "la vita",
+     "de": "das Leben"
+    },
+    {
+     "it": "morire",
+     "de": "sterben"
+    },
+    {
+     "it": "il compagno",
+     "de": "der Partner / Kamerad"
+    },
+    {
+     "it": "lo sposo",
+     "de": "der Bräutigam"
+    },
+    {
+     "it": "la sposa",
+     "de": "die Braut"
+    },
+    {
+     "it": "la nascita",
+     "de": "die Geburt"
+    },
+    {
+     "it": "il popolo",
+     "de": "das Volk"
+    },
+    {
+     "it": "la folla",
+     "de": "die Menschenmenge"
+    },
+    {
+     "it": "il bebè",
+     "de": "das Baby"
+    },
+    {
+     "it": "la morte",
+     "de": "der Tod"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_adjectives",
+   "level": "A1",
+   "title": "Eigenschaften",
+   "emoji": "✨",
+   "words": [
+    {
+     "it": "grande",
+     "de": "groß"
+    },
+    {
+     "it": "piccolo",
+     "de": "klein"
+    },
+    {
+     "it": "buono",
+     "de": "gut / lecker"
+    },
+    {
+     "it": "cattivo",
+     "de": "böse / schlecht"
+    },
+    {
+     "it": "bello",
+     "de": "schön"
+    },
+    {
+     "it": "brutto",
+     "de": "hässlich"
+    },
+    {
+     "it": "nuovo",
+     "de": "neu"
+    },
+    {
+     "it": "alto",
+     "de": "hoch / groß"
+    },
+    {
+     "it": "basso",
+     "de": "niedrig / klein"
+    },
+    {
+     "it": "lungo",
+     "de": "lang"
+    },
+    {
+     "it": "corto",
+     "de": "kurz"
+    },
+    {
+     "it": "caldo",
+     "de": "warm / heiß"
+    },
+    {
+     "it": "freddo",
+     "de": "kalt"
+    },
+    {
+     "it": "facile",
+     "de": "leicht / einfach"
+    },
+    {
+     "it": "difficile",
+     "de": "schwierig"
+    },
+    {
+     "it": "felice",
+     "de": "glücklich"
+    },
+    {
+     "it": "triste",
+     "de": "traurig"
+    },
+    {
+     "it": "stanco",
+     "de": "müde"
+    },
+    {
+     "it": "pieno",
+     "de": "voll"
+    },
+    {
+     "it": "aperto",
+     "de": "offen"
+    },
+    {
+     "it": "chiuso",
+     "de": "geschlossen"
+    },
+    {
+     "it": "pulito",
+     "de": "sauber"
+    },
+    {
+     "it": "sporco",
+     "de": "schmutzig"
+    },
+    {
+     "it": "forte",
+     "de": "stark"
+    },
+    {
+     "it": "debole",
+     "de": "schwach"
+    },
+    {
+     "it": "povero",
+     "de": "arm"
+    },
+    {
+     "it": "bravo",
+     "de": "tüchtig / brav"
+    },
+    {
+     "it": "intelligente",
+     "de": "intelligent"
+    },
+    {
+     "it": "magro",
+     "de": "dünn / mager"
+    },
+    {
+     "it": "carino",
+     "de": "hübsch / nett"
+    },
+    {
+     "it": "vero",
+     "de": "wahr / echt"
+    },
+    {
+     "it": "libero",
+     "de": "frei"
+    },
+    {
+     "it": "primo",
+     "de": "erster"
+    },
+    {
+     "it": "ultimo",
+     "de": "letzter"
+    },
+    {
+     "it": "largo",
+     "de": "breit"
+    },
+    {
+     "it": "stretto",
+     "de": "eng"
+    },
+    {
+     "it": "pronto",
+     "de": "fertig / bereit"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_verbs",
+   "level": "A1",
+   "title": "Häufige Verben",
+   "emoji": "🏃",
+   "words": [
+    {
+     "it": "essere",
+     "de": "sein"
+    },
+    {
+     "it": "avere",
+     "de": "haben"
+    },
+    {
+     "it": "dire",
+     "de": "sagen"
+    },
+    {
+     "it": "sentire",
+     "de": "hören / fühlen"
+    },
+    {
+     "it": "chiamare",
+     "de": "rufen / anrufen"
+    },
+    {
+     "it": "chiamarsi",
+     "de": "heißen"
+    },
+    {
+     "it": "trovare",
+     "de": "finden"
+    },
+    {
+     "it": "portare",
+     "de": "bringen / tragen"
+    },
+    {
+     "it": "iniziare",
+     "de": "anfangen"
+    },
+    {
+     "it": "rispondere",
+     "de": "antworten"
+    },
+    {
+     "it": "chiedere",
+     "de": "fragen / bitten"
+    },
+    {
+     "it": "vendere",
+     "de": "verkaufen"
+    },
+    {
+     "it": "camminare",
+     "de": "gehen / laufen"
+    },
+    {
+     "it": "correre",
+     "de": "rennen"
+    },
+    {
+     "it": "sedersi",
+     "de": "sich setzen"
+    },
+    {
+     "it": "ricordare",
+     "de": "sich erinnern"
+    },
+    {
+     "it": "tenere",
+     "de": "halten"
+    },
+    {
+     "it": "ripetere",
+     "de": "wiederholen"
+    },
+    {
+     "it": "insegnare",
+     "de": "unterrichten"
+    },
+    {
+     "it": "salire",
+     "de": "einsteigen / hinaufgehen"
+    },
+    {
+     "it": "scendere",
+     "de": "aussteigen / hinuntergehen"
+    },
+    {
+     "it": "mostrare",
+     "de": "zeigen"
+    },
+    {
+     "it": "ridere",
+     "de": "lachen"
+    },
+    {
+     "it": "sorridere",
+     "de": "lächeln"
+    },
+    {
+     "it": "piangere",
+     "de": "weinen"
+    },
+    {
+     "it": "abbracciare",
+     "de": "umarmen"
+    },
+    {
+     "it": "cadere",
+     "de": "fallen"
+    },
+    {
+     "it": "avere bisogno di",
+     "de": "brauchen"
+    },
+    {
+     "it": "volare",
+     "de": "fliegen"
+    },
+    {
+     "it": "saltare",
+     "de": "springen"
+    },
+    {
+     "it": "bussare",
+     "de": "klopfen"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_small_words",
+   "level": "A1",
+   "title": "Kleine Wörter",
+   "emoji": "🔗",
+   "words": [
+    {
+     "it": "ancora",
+     "de": "noch / wieder"
+    },
+    {
+     "it": "molto",
+     "de": "sehr / viel"
+    },
+    {
+     "it": "ma",
+     "de": "aber"
+    },
+    {
+     "it": "però",
+     "de": "jedoch"
+    },
+    {
+     "it": "poi",
+     "de": "danach"
+    },
+    {
+     "it": "dopo",
+     "de": "nach / später"
+    },
+    {
+     "it": "poco",
+     "de": "wenig"
+    },
+    {
+     "it": "troppo",
+     "de": "zu (viel)"
+    },
+    {
+     "it": "tanto",
+     "de": "so viel"
+    },
+    {
+     "it": "bene",
+     "de": "gut (Adverb)"
+    },
+    {
+     "it": "male",
+     "de": "schlecht (Adverb)"
+    },
+    {
+     "it": "qui",
+     "de": "hier"
+    },
+    {
+     "it": "lì",
+     "de": "dort"
+    },
+    {
+     "it": "sopra",
+     "de": "oben / über"
+    },
+    {
+     "it": "sotto",
+     "de": "unten / unter"
+    },
+    {
+     "it": "dentro",
+     "de": "drinnen"
+    },
+    {
+     "it": "fuori",
+     "de": "draußen"
+    },
+    {
+     "it": "davanti a",
+     "de": "vor (örtlich)"
+    },
+    {
+     "it": "dietro",
+     "de": "hinter"
+    },
+    {
+     "it": "accanto a",
+     "de": "neben"
+    },
+    {
+     "it": "tra",
+     "de": "zwischen"
+    },
+    {
+     "it": "con",
+     "de": "mit"
+    },
+    {
+     "it": "senza",
+     "de": "ohne"
+    },
+    {
+     "it": "per",
+     "de": "für"
+    },
+    {
+     "it": "e",
+     "de": "und"
+    },
+    {
+     "it": "subito",
+     "de": "sofort"
+    },
+    {
+     "it": "mai",
+     "de": "nie"
+    },
+    {
+     "it": "ogni",
+     "de": "jeder / jede"
+    },
+    {
+     "it": "tutto",
+     "de": "alles / ganz"
+    },
+    {
+     "it": "niente",
+     "de": "nichts"
+    },
+    {
+     "it": "qualcosa",
+     "de": "etwas"
+    },
+    {
+     "it": "qualcuno",
+     "de": "jemand"
+    },
+    {
+     "it": "nessuno",
+     "de": "niemand"
+    },
+    {
+     "it": "così",
+     "de": "so"
+    },
+    {
+     "it": "solo",
+     "de": "nur / allein"
+    },
+    {
+     "it": "perciò",
+     "de": "deshalb"
+    },
+    {
+     "it": "durante",
+     "de": "während"
+    },
+    {
+     "it": "fino a",
+     "de": "bis"
+    }
+   ]
+  },
+  {
+   "id": "a1.deck_numbers",
+   "level": "A1",
+   "title": "Zahlen & Mengen",
+   "emoji": "🔢",
+   "words": [
+    {
+     "it": "zero",
+     "de": "null"
+    },
+    {
+     "it": "undici",
+     "de": "elf"
+    },
+    {
+     "it": "dodici",
+     "de": "zwölf"
+    },
+    {
+     "it": "tredici",
+     "de": "dreizehn"
+    },
+    {
+     "it": "quattordici",
+     "de": "vierzehn"
+    },
+    {
+     "it": "quindici",
+     "de": "fünfzehn"
+    },
+    {
+     "it": "sedici",
+     "de": "sechzehn"
+    },
+    {
+     "it": "diciassette",
+     "de": "siebzehn"
+    },
+    {
+     "it": "diciotto",
+     "de": "achtzehn"
+    },
+    {
+     "it": "diciannove",
+     "de": "neunzehn"
+    },
+    {
+     "it": "quaranta",
+     "de": "vierzig"
+    },
+    {
+     "it": "sessanta",
+     "de": "sechzig"
+    },
+    {
+     "it": "settanta",
+     "de": "siebzig"
+    },
+    {
+     "it": "ottanta",
+     "de": "achtzig"
+    },
+    {
+     "it": "novanta",
+     "de": "neunzig"
+    },
+    {
+     "it": "duecento",
+     "de": "zweihundert"
+    },
+    {
+     "it": "mille",
+     "de": "tausend"
+    },
+    {
+     "it": "il milione",
+     "de": "die Million"
+    },
+    {
+     "it": "terzo",
+     "de": "dritter"
+    },
+    {
+     "it": "la metà",
+     "de": "die Hälfte"
+    },
+    {
+     "it": "il doppio",
+     "de": "das Doppelte"
+    },
+    {
+     "it": "il numero",
+     "de": "die Zahl / die Nummer"
+    },
+    {
+     "it": "il pezzo",
+     "de": "das Stück"
+    },
+    {
+     "it": "il litro",
+     "de": "der Liter"
+    },
+    {
+     "it": "il metro",
+     "de": "der Meter"
+    },
+    {
+     "it": "il chilometro",
+     "de": "der Kilometer"
+    },
+    {
+     "it": "il grammo",
+     "de": "das Gramm"
+    },
+    {
+     "it": "la lattina",
+     "de": "die Dose"
+    },
+    {
+     "it": "il paio",
+     "de": "ein Paar (Stück)"
+    },
+    {
+     "it": "la quantità",
+     "de": "die Menge"
+    },
+    {
+     "it": "il centimetro",
+     "de": "der Zentimeter"
+    },
+    {
+     "it": "la dozzina",
+     "de": "das Dutzend"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_travel",
+   "level": "A2",
+   "title": "Reisen & Urlaub",
+   "emoji": "🧳",
+   "words": [
+    {
+     "it": "la vacanza",
+     "de": "der Urlaub"
+    },
+    {
+     "it": "la vista",
+     "de": "die Aussicht"
+    },
+    {
+     "it": "il turista",
+     "de": "der Tourist"
+    },
+    {
+     "it": "la spiaggia",
+     "de": "der Strand"
+    },
+    {
+     "it": "il lago",
+     "de": "der See"
+    },
+    {
+     "it": "la tenda",
+     "de": "das Zelt"
+    },
+    {
+     "it": "il monumento",
+     "de": "das Denkmal"
+    },
+    {
+     "it": "la frontiera",
+     "de": "die Grenze"
+    },
+    {
+     "it": "l'estero",
+     "de": "das Ausland"
+    },
+    {
+     "it": "la cartolina",
+     "de": "die Postkarte"
+    },
+    {
+     "it": "la foto",
+     "de": "das Foto"
+    },
+    {
+     "it": "visitare",
+     "de": "besichtigen / besuchen"
+    },
+    {
+     "it": "perdersi",
+     "de": "sich verirren"
+    },
+    {
+     "it": "la benzina",
+     "de": "das Benzin"
+    },
+    {
+     "it": "il pullman",
+     "de": "der Reisebus"
+    },
+    {
+     "it": "la mezza pensione",
+     "de": "die Halbpension"
+    },
+    {
+     "it": "la crema solare",
+     "de": "die Sonnencreme"
+    },
+    {
+     "it": "l'ombrellone",
+     "de": "der Sonnenschirm"
+    },
+    {
+     "it": "il lettino",
+     "de": "die Liege"
+    },
+    {
+     "it": "abbronzarsi",
+     "de": "braun werden"
+    },
+    {
+     "it": "il souvenir",
+     "de": "das Souvenir"
+    },
+    {
+     "it": "la camera singola",
+     "de": "das Einzelzimmer"
+    },
+    {
+     "it": "la camera doppia",
+     "de": "das Doppelzimmer"
+    },
+    {
+     "it": "l'agenzia di viaggi",
+     "de": "das Reisebüro"
+    },
+    {
+     "it": "il viaggiatore",
+     "de": "der Reisende"
+    },
+    {
+     "it": "la meta",
+     "de": "das Reiseziel"
+    },
+    {
+     "it": "il villaggio",
+     "de": "das Dorf"
+    },
+    {
+     "it": "la mancia",
+     "de": "das Trinkgeld"
+    },
+    {
+     "it": "la pensione completa",
+     "de": "die Vollpension"
+    },
+    {
+     "it": "il sentiero",
+     "de": "der Wanderweg"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_shopping",
+   "level": "A2",
+   "title": "Einkaufen & Geld",
+   "emoji": "💶",
+   "words": [
+    {
+     "it": "i soldi",
+     "de": "das Geld"
+    },
+    {
+     "it": "l'euro",
+     "de": "der Euro"
+    },
+    {
+     "it": "il centesimo",
+     "de": "der Cent"
+    },
+    {
+     "it": "la bilancia",
+     "de": "die Waage"
+    },
+    {
+     "it": "i contanti",
+     "de": "das Bargeld"
+    },
+    {
+     "it": "il commesso",
+     "de": "der Verkäufer"
+    },
+    {
+     "it": "la panetteria",
+     "de": "die Bäckerei"
+    },
+    {
+     "it": "la macelleria",
+     "de": "die Metzgerei"
+    },
+    {
+     "it": "il fruttivendolo",
+     "de": "der Obst- und Gemüsehändler"
+    },
+    {
+     "it": "la libreria",
+     "de": "die Buchhandlung"
+    },
+    {
+     "it": "la pasticceria",
+     "de": "die Konditorei"
+    },
+    {
+     "it": "l'edicola",
+     "de": "der Zeitungskiosk"
+    },
+    {
+     "it": "il centro commerciale",
+     "de": "das Einkaufszentrum"
+    },
+    {
+     "it": "i saldi",
+     "de": "der Schlussverkauf"
+    },
+    {
+     "it": "il mercatino",
+     "de": "der Flohmarkt"
+    },
+    {
+     "it": "il sacchetto",
+     "de": "die Tüte"
+    },
+    {
+     "it": "il carrello",
+     "de": "der Einkaufswagen"
+    },
+    {
+     "it": "la marca",
+     "de": "die Marke"
+    },
+    {
+     "it": "la qualità",
+     "de": "die Qualität"
+    },
+    {
+     "it": "il camerino",
+     "de": "die Umkleidekabine"
+    },
+    {
+     "it": "ordinare",
+     "de": "bestellen"
+    },
+    {
+     "it": "la spesa",
+     "de": "der Einkauf"
+    },
+    {
+     "it": "la vetrina",
+     "de": "das Schaufenster"
+    },
+    {
+     "it": "la gioielleria",
+     "de": "das Juweliergeschäft"
+    },
+    {
+     "it": "il fioraio",
+     "de": "der Blumenladen"
+    },
+    {
+     "it": "la profumeria",
+     "de": "die Parfümerie"
+    },
+    {
+     "it": "la salumeria",
+     "de": "das Feinkostgeschäft"
+    },
+    {
+     "it": "la cartoleria",
+     "de": "das Schreibwarengeschäft"
+    },
+    {
+     "it": "la tabaccheria",
+     "de": "der Tabakladen"
+    },
+    {
+     "it": "il prodotto",
+     "de": "das Produkt"
+    },
+    {
+     "it": "l'acquisto",
+     "de": "der Kauf"
+    },
+    {
+     "it": "la lista della spesa",
+     "de": "der Einkaufszettel"
+    },
+    {
+     "it": "l'orario d'apertura",
+     "de": "die Öffnungszeiten"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_health",
+   "level": "A2",
+   "title": "Gesundheit",
+   "emoji": "🩺",
+   "words": [
+    {
+     "it": "l'ambulatorio",
+     "de": "die Arztpraxis"
+    },
+    {
+     "it": "malato",
+     "de": "krank"
+    },
+    {
+     "it": "la medicina",
+     "de": "das Medikament"
+    },
+    {
+     "it": "il dottore",
+     "de": "der Doktor"
+    },
+    {
+     "it": "il dentista",
+     "de": "der Zahnarzt"
+    },
+    {
+     "it": "starnutire",
+     "de": "niesen"
+    },
+    {
+     "it": "l'emergenza",
+     "de": "der Notfall"
+    },
+    {
+     "it": "il mal di pancia",
+     "de": "die Bauchschmerzen"
+    },
+    {
+     "it": "sano",
+     "de": "gesund"
+    },
+    {
+     "it": "la benda",
+     "de": "der Verband"
+    },
+    {
+     "it": "ammalarsi",
+     "de": "krank werden"
+    },
+    {
+     "it": "curare",
+     "de": "behandeln / pflegen"
+    },
+    {
+     "it": "fare male",
+     "de": "wehtun"
+    },
+    {
+     "it": "sentirsi",
+     "de": "sich fühlen"
+    },
+    {
+     "it": "respirare",
+     "de": "atmen"
+    },
+    {
+     "it": "l'assicurazione",
+     "de": "die Versicherung"
+    },
+    {
+     "it": "la dieta",
+     "de": "die Diät"
+    },
+    {
+     "it": "fumare",
+     "de": "rauchen"
+    },
+    {
+     "it": "il termometro",
+     "de": "das Thermometer"
+    },
+    {
+     "it": "la crema",
+     "de": "die Creme / Salbe"
+    },
+    {
+     "it": "il cerotto",
+     "de": "das Pflaster"
+    },
+    {
+     "it": "grave",
+     "de": "schwer / ernst"
+    },
+    {
+     "it": "il farmacista",
+     "de": "der Apotheker"
+    },
+    {
+     "it": "la compressa",
+     "de": "die Tablette"
+    },
+    {
+     "it": "le gocce",
+     "de": "die Tropfen"
+    },
+    {
+     "it": "l'iniezione",
+     "de": "die Spritze"
+    },
+    {
+     "it": "il mal di denti",
+     "de": "die Zahnschmerzen"
+    },
+    {
+     "it": "il mal di gola",
+     "de": "die Halsschmerzen"
+    },
+    {
+     "it": "tossire",
+     "de": "husten"
+    },
+    {
+     "it": "la sala d'attesa",
+     "de": "das Wartezimmer"
+    },
+    {
+     "it": "il peso",
+     "de": "das Gewicht"
+    },
+    {
+     "it": "dimagrire",
+     "de": "abnehmen"
+    },
+    {
+     "it": "ingrassare",
+     "de": "zunehmen"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_work",
+   "level": "A2",
+   "title": "Arbeit & Berufe",
+   "emoji": "💼",
+   "words": [
+    {
+     "it": "la fabbrica",
+     "de": "die Fabrik"
+    },
+    {
+     "it": "la segretaria",
+     "de": "die Sekretärin"
+    },
+    {
+     "it": "il negoziante",
+     "de": "der Ladenbesitzer"
+    },
+    {
+     "it": "l'e-mail",
+     "de": "die E-Mail"
+    },
+    {
+     "it": "il messaggio",
+     "de": "die Nachricht"
+    },
+    {
+     "it": "licenziarsi",
+     "de": "kündigen"
+    },
+    {
+     "it": "l'operaio",
+     "de": "der Arbeiter"
+    },
+    {
+     "it": "il commerciante",
+     "de": "der Händler"
+    },
+    {
+     "it": "l'ingegnere",
+     "de": "der Ingenieur"
+    },
+    {
+     "it": "il poliziotto",
+     "de": "der Polizist"
+    },
+    {
+     "it": "la busta",
+     "de": "der Briefumschlag"
+    },
+    {
+     "it": "l'elettricista",
+     "de": "der Elektriker"
+    },
+    {
+     "it": "l'agricoltore",
+     "de": "der Landwirt"
+    },
+    {
+     "it": "il traduttore",
+     "de": "der Übersetzer"
+    },
+    {
+     "it": "il pompiere",
+     "de": "der Feuerwehrmann"
+    },
+    {
+     "it": "il postino",
+     "de": "der Briefträger"
+    },
+    {
+     "it": "il commercialista",
+     "de": "der Steuerberater"
+    },
+    {
+     "it": "l'architetto",
+     "de": "der Architekt"
+    },
+    {
+     "it": "il programmatore",
+     "de": "der Programmierer"
+    },
+    {
+     "it": "l'autista",
+     "de": "der Fahrer"
+    },
+    {
+     "it": "il muratore",
+     "de": "der Maurer"
+    },
+    {
+     "it": "il falegname",
+     "de": "der Schreiner"
+    },
+    {
+     "it": "il vigile",
+     "de": "der Verkehrspolizist"
+    },
+    {
+     "it": "il fornaio",
+     "de": "der Bäcker"
+    },
+    {
+     "it": "la graffetta",
+     "de": "die Büroklammer"
+    },
+    {
+     "it": "le forbici",
+     "de": "die Schere"
+    },
+    {
+     "it": "il cestino",
+     "de": "der Papierkorb"
+    },
+    {
+     "it": "la pausa pranzo",
+     "de": "die Mittagspause"
+    },
+    {
+     "it": "il biglietto da visita",
+     "de": "die Visitenkarte"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_school",
+   "level": "A2",
+   "title": "Schule & Lernen",
+   "emoji": "🎓",
+   "words": [
+    {
+     "it": "l'università",
+     "de": "die Universität"
+    },
+    {
+     "it": "la classe",
+     "de": "die Klasse"
+    },
+    {
+     "it": "il professore",
+     "de": "der Lehrer / Professor"
+    },
+    {
+     "it": "il quaderno",
+     "de": "das Heft"
+    },
+    {
+     "it": "la matita",
+     "de": "der Bleistift"
+    },
+    {
+     "it": "lo zaino",
+     "de": "der Rucksack"
+    },
+    {
+     "it": "il dizionario",
+     "de": "das Wörterbuch"
+    },
+    {
+     "it": "la parola",
+     "de": "das Wort"
+    },
+    {
+     "it": "la frase",
+     "de": "der Satz"
+    },
+    {
+     "it": "la lingua",
+     "de": "die Sprache / die Zunge"
+    },
+    {
+     "it": "la matematica",
+     "de": "die Mathematik"
+    },
+    {
+     "it": "la pagina",
+     "de": "die Seite"
+    },
+    {
+     "it": "l'esercizio",
+     "de": "die Übung"
+    },
+    {
+     "it": "tradurre",
+     "de": "übersetzen"
+    },
+    {
+     "it": "significare",
+     "de": "bedeuten"
+    },
+    {
+     "it": "il significato",
+     "de": "die Bedeutung"
+    },
+    {
+     "it": "correggere",
+     "de": "korrigieren"
+    },
+    {
+     "it": "il livello",
+     "de": "das Niveau"
+    },
+    {
+     "it": "la regola",
+     "de": "die Regel"
+    },
+    {
+     "it": "l'attenzione",
+     "de": "die Aufmerksamkeit"
+    },
+    {
+     "it": "il maestro",
+     "de": "der Grundschullehrer"
+    },
+    {
+     "it": "l'asilo",
+     "de": "der Kindergarten"
+    },
+    {
+     "it": "il righello",
+     "de": "das Lineal"
+    },
+    {
+     "it": "l'astuccio",
+     "de": "das Federmäppchen"
+    },
+    {
+     "it": "il foglio",
+     "de": "das Blatt (Papier)"
+    },
+    {
+     "it": "la geografia",
+     "de": "die Erdkunde"
+    },
+    {
+     "it": "la scienza",
+     "de": "die Wissenschaft"
+    },
+    {
+     "it": "inglese",
+     "de": "englisch"
+    },
+    {
+     "it": "la lettura",
+     "de": "das Lesen"
+    },
+    {
+     "it": "la scrittura",
+     "de": "das Schreiben"
+    },
+    {
+     "it": "la traduzione",
+     "de": "die Übersetzung"
+    },
+    {
+     "it": "la verifica",
+     "de": "die Klassenarbeit"
+    },
+    {
+     "it": "il banco",
+     "de": "die Schulbank"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_leisure",
+   "level": "A2",
+   "title": "Freizeit & Sport",
+   "emoji": "⚽",
+   "words": [
+    {
+     "it": "la palla",
+     "de": "der Ball"
+    },
+    {
+     "it": "la piscina",
+     "de": "das Schwimmbad"
+    },
+    {
+     "it": "la passeggiata",
+     "de": "der Spaziergang"
+    },
+    {
+     "it": "il film",
+     "de": "der Film"
+    },
+    {
+     "it": "la canzone",
+     "de": "das Lied"
+    },
+    {
+     "it": "il gioco",
+     "de": "das Spiel"
+    },
+    {
+     "it": "il videogioco",
+     "de": "das Videospiel"
+    },
+    {
+     "it": "la discoteca",
+     "de": "die Disco"
+    },
+    {
+     "it": "la vela",
+     "de": "das Segeln"
+    },
+    {
+     "it": "il nuoto",
+     "de": "das Schwimmen"
+    },
+    {
+     "it": "la pesca",
+     "de": "das Angeln"
+    },
+    {
+     "it": "la danza",
+     "de": "der Tanz"
+    },
+    {
+     "it": "lo sci",
+     "de": "das Skifahren"
+    },
+    {
+     "it": "il pugilato",
+     "de": "das Boxen"
+    },
+    {
+     "it": "la ginnastica",
+     "de": "die Gymnastik / das Turnen"
+    },
+    {
+     "it": "lo yoga",
+     "de": "das Yoga"
+    },
+    {
+     "it": "l'escursionismo",
+     "de": "das Wandern"
+    },
+    {
+     "it": "gli scacchi",
+     "de": "das Schach"
+    },
+    {
+     "it": "il cruciverba",
+     "de": "das Kreuzworträtsel"
+    },
+    {
+     "it": "il circo",
+     "de": "der Zirkus"
+    },
+    {
+     "it": "il parco divertimenti",
+     "de": "der Freizeitpark"
+    },
+    {
+     "it": "lo zoo",
+     "de": "der Zoo"
+    },
+    {
+     "it": "il picnic",
+     "de": "das Picknick"
+    },
+    {
+     "it": "la barca",
+     "de": "das Boot"
+    },
+    {
+     "it": "il jogging",
+     "de": "das Joggen"
+    },
+    {
+     "it": "la pittura",
+     "de": "die Malerei"
+    },
+    {
+     "it": "il canto",
+     "de": "der Gesang"
+    },
+    {
+     "it": "il coro",
+     "de": "der Chor"
+    },
+    {
+     "it": "lo strumento",
+     "de": "das Instrument"
+    },
+    {
+     "it": "il flauto",
+     "de": "die Flöte"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_nature",
+   "level": "A2",
+   "title": "Natur & Wetter",
+   "emoji": "🌳",
+   "words": [
+    {
+     "it": "il cielo",
+     "de": "der Himmel"
+    },
+    {
+     "it": "la nuvola",
+     "de": "die Wolke"
+    },
+    {
+     "it": "la luna",
+     "de": "der Mond"
+    },
+    {
+     "it": "l'albero",
+     "de": "der Baum"
+    },
+    {
+     "it": "il fiore",
+     "de": "die Blume"
+    },
+    {
+     "it": "la campagna",
+     "de": "das Land (ländlich)"
+    },
+    {
+     "it": "l'animale",
+     "de": "das Tier"
+    },
+    {
+     "it": "l'uccello",
+     "de": "der Vogel"
+    },
+    {
+     "it": "il cavallo",
+     "de": "das Pferd"
+    },
+    {
+     "it": "la mucca",
+     "de": "die Kuh"
+    },
+    {
+     "it": "il ghiaccio",
+     "de": "das Eis (gefroren)"
+    },
+    {
+     "it": "il grado",
+     "de": "der Grad"
+    },
+    {
+     "it": "umido",
+     "de": "feucht"
+    },
+    {
+     "it": "secco",
+     "de": "trocken"
+    },
+    {
+     "it": "sereno",
+     "de": "heiter / klar"
+    },
+    {
+     "it": "bagnato",
+     "de": "nass"
+    },
+    {
+     "it": "il tuono",
+     "de": "der Donner"
+    },
+    {
+     "it": "il lampo",
+     "de": "der Blitz"
+    },
+    {
+     "it": "la tempesta",
+     "de": "der Sturm"
+    },
+    {
+     "it": "la pietra",
+     "de": "der Stein"
+    },
+    {
+     "it": "la sabbia",
+     "de": "der Sand"
+    },
+    {
+     "it": "l'onda",
+     "de": "die Welle"
+    },
+    {
+     "it": "il prato",
+     "de": "die Wiese"
+    },
+    {
+     "it": "la roccia",
+     "de": "der Fels"
+    },
+    {
+     "it": "la cascata",
+     "de": "der Wasserfall"
+    },
+    {
+     "it": "il ramo",
+     "de": "der Ast"
+    },
+    {
+     "it": "l'insetto",
+     "de": "das Insekt"
+    },
+    {
+     "it": "la zanzara",
+     "de": "die Mücke"
+    },
+    {
+     "it": "la pecora",
+     "de": "das Schaf"
+    },
+    {
+     "it": "la gallina",
+     "de": "das Huhn"
+    },
+    {
+     "it": "l'orso",
+     "de": "der Bär"
+    },
+    {
+     "it": "la farfalla",
+     "de": "der Schmetterling"
+    },
+    {
+     "it": "l'ape",
+     "de": "die Biene"
+    },
+    {
+     "it": "l'arcobaleno",
+     "de": "der Regenbogen"
+    },
+    {
+     "it": "il tramonto",
+     "de": "der Sonnenuntergang"
+    },
+    {
+     "it": "la grandine",
+     "de": "der Hagel"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_feelings",
+   "level": "A2",
+   "title": "Gefühle",
+   "emoji": "💛",
+   "words": [
+    {
+     "it": "spaventato",
+     "de": "erschrocken"
+    },
+    {
+     "it": "la preoccupazione",
+     "de": "die Sorge"
+    },
+    {
+     "it": "la felicità",
+     "de": "das Glück (Gefühl)"
+    },
+    {
+     "it": "la fortuna",
+     "de": "das Glück (Zufall)"
+    },
+    {
+     "it": "arrabbiato",
+     "de": "wütend"
+    },
+    {
+     "it": "soddisfatto",
+     "de": "zufrieden"
+    },
+    {
+     "it": "spaventarsi",
+     "de": "sich erschrecken"
+    },
+    {
+     "it": "annoiato",
+     "de": "gelangweilt"
+    },
+    {
+     "it": "agitato",
+     "de": "unruhig"
+    },
+    {
+     "it": "odiare",
+     "de": "hassen"
+    },
+    {
+     "it": "offeso",
+     "de": "beleidigt"
+    },
+    {
+     "it": "il sentimento",
+     "de": "das Gefühl"
+    },
+    {
+     "it": "l'emozione",
+     "de": "die Emotion"
+    },
+    {
+     "it": "imbarazzato",
+     "de": "verlegen"
+    },
+    {
+     "it": "la noia",
+     "de": "die Langeweile"
+    },
+    {
+     "it": "stressato",
+     "de": "gestresst"
+    },
+    {
+     "it": "rilassato",
+     "de": "entspannt"
+    },
+    {
+     "it": "disperato",
+     "de": "verzweifelt"
+    },
+    {
+     "it": "commosso",
+     "de": "gerührt"
+    },
+    {
+     "it": "l'umore",
+     "de": "die Laune"
+    },
+    {
+     "it": "il sorriso",
+     "de": "das Lächeln"
+    },
+    {
+     "it": "la lacrima",
+     "de": "die Träne"
+    },
+    {
+     "it": "la pace",
+     "de": "der Frieden"
+    },
+    {
+     "it": "l'odio",
+     "de": "der Hass"
+    },
+    {
+     "it": "la voglia",
+     "de": "die Lust"
+    },
+    {
+     "it": "coraggioso",
+     "de": "mutig"
+    },
+    {
+     "it": "la passione",
+     "de": "die Leidenschaft"
+    },
+    {
+     "it": "sentire la mancanza di",
+     "de": "vermissen"
+    },
+    {
+     "it": "sopportare",
+     "de": "ertragen"
+    },
+    {
+     "it": "infelice",
+     "de": "unglücklich"
+    },
+    {
+     "it": "urlare",
+     "de": "schreien"
+    },
+    {
+     "it": "stupito",
+     "de": "erstaunt"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_household",
+   "level": "A2",
+   "title": "Wohnung & Haushalt",
+   "emoji": "🧹",
+   "words": [
+    {
+     "it": "il ferro da stiro",
+     "de": "das Bügeleisen"
+    },
+    {
+     "it": "l'aria condizionata",
+     "de": "die Klimaanlage"
+    },
+    {
+     "it": "il cortile",
+     "de": "der Hof"
+    },
+    {
+     "it": "il garage",
+     "de": "die Garage"
+    },
+    {
+     "it": "lo scaffale",
+     "de": "das Regal"
+    },
+    {
+     "it": "il tappeto",
+     "de": "der Teppich"
+    },
+    {
+     "it": "la spazzatura",
+     "de": "der Müll"
+    },
+    {
+     "it": "la scopa",
+     "de": "der Besen"
+    },
+    {
+     "it": "lo straccio",
+     "de": "der Lappen"
+    },
+    {
+     "it": "il detersivo",
+     "de": "das Waschmittel / Spülmittel"
+    },
+    {
+     "it": "il bucato",
+     "de": "die Wäsche"
+    },
+    {
+     "it": "spolverare",
+     "de": "abstauben"
+    },
+    {
+     "it": "mettere in ordine",
+     "de": "aufräumen"
+    },
+    {
+     "it": "il disordine",
+     "de": "die Unordnung"
+    },
+    {
+     "it": "il lavandino",
+     "de": "das Waschbecken"
+    },
+    {
+     "it": "il cassetto",
+     "de": "die Schublade"
+    },
+    {
+     "it": "buttare",
+     "de": "wegwerfen"
+    },
+    {
+     "it": "rompere",
+     "de": "kaputt machen"
+    },
+    {
+     "it": "ammobiliato",
+     "de": "möbliert"
+    },
+    {
+     "it": "spazzare",
+     "de": "fegen"
+    },
+    {
+     "it": "il congelatore",
+     "de": "der Gefrierschrank"
+    },
+    {
+     "it": "il fornello",
+     "de": "der Herd"
+    },
+    {
+     "it": "la lampadina",
+     "de": "die Glühbirne"
+    },
+    {
+     "it": "il lenzuolo",
+     "de": "das Bettlaken"
+    },
+    {
+     "it": "il secchio",
+     "de": "der Eimer"
+    },
+    {
+     "it": "la spugna",
+     "de": "der Schwamm"
+    },
+    {
+     "it": "stendere",
+     "de": "aufhängen (Wäsche)"
+    },
+    {
+     "it": "la polvere",
+     "de": "der Staub"
+    },
+    {
+     "it": "il ripostiglio",
+     "de": "die Abstellkammer"
+    },
+    {
+     "it": "il comodino",
+     "de": "der Nachttisch"
+    },
+    {
+     "it": "la poltrona",
+     "de": "der Sessel"
+    },
+    {
+     "it": "apparecchiare",
+     "de": "den Tisch decken"
+    }
+   ]
+  },
+  {
+   "id": "a2.deck_verbs2",
+   "level": "A2",
+   "title": "Häufige Verben II",
+   "emoji": "🔄",
+   "words": [
+    {
+     "it": "diventare",
+     "de": "werden"
+    },
+    {
+     "it": "restare",
+     "de": "bleiben"
+    },
+    {
+     "it": "servire",
+     "de": "dienen / nötig sein"
+    },
+    {
+     "it": "bastare",
+     "de": "genügen / reichen"
+    },
+    {
+     "it": "mancare",
+     "de": "fehlen"
+    },
+    {
+     "it": "invitare",
+     "de": "einladen"
+    },
+    {
+     "it": "spostare",
+     "de": "verschieben / verstellen"
+    },
+    {
+     "it": "muovere",
+     "de": "bewegen"
+    },
+    {
+     "it": "toccare",
+     "de": "berühren"
+    },
+    {
+     "it": "lanciare",
+     "de": "werfen"
+    },
+    {
+     "it": "conservare",
+     "de": "aufbewahren"
+    },
+    {
+     "it": "scusarsi",
+     "de": "sich entschuldigen"
+    },
+    {
+     "it": "interessare",
+     "de": "interessieren"
+    },
+    {
+     "it": "riempire",
+     "de": "füllen"
+    },
+    {
+     "it": "accompagnare",
+     "de": "begleiten"
+    },
+    {
+     "it": "consigliare",
+     "de": "raten / empfehlen"
+    },
+    {
+     "it": "spingere",
+     "de": "schieben / drücken"
+    },
+    {
+     "it": "tirare",
+     "de": "ziehen"
+    },
+    {
+     "it": "trascorrere",
+     "de": "verbringen"
+    },
+    {
+     "it": "perdonare",
+     "de": "verzeihen"
+    },
+    {
+     "it": "scherzare",
+     "de": "scherzen"
+    },
+    {
+     "it": "mentire",
+     "de": "lügen"
+    },
+    {
+     "it": "rispettare",
+     "de": "respektieren"
+    },
+    {
+     "it": "scappare",
+     "de": "weglaufen / fliehen"
+    },
+    {
+     "it": "notare",
+     "de": "bemerken"
+    },
+    {
+     "it": "addormentarsi",
+     "de": "einschlafen"
+    },
+    {
+     "it": "battere",
+     "de": "schlagen"
+    },
+    {
+     "it": "valere",
+     "de": "wert sein / gelten"
+    },
+    {
+     "it": "pregare",
+     "de": "beten / bitten"
+    },
+    {
+     "it": "sparire",
+     "de": "verschwinden"
+    },
+    {
+     "it": "approfittare",
+     "de": "profitieren / ausnutzen"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_work",
+   "level": "B1",
+   "title": "Beruf & Karriere",
+   "emoji": "💼",
+   "words": [
+    {
+     "it": "il lavoratore",
+     "de": "der Arbeitnehmer"
+    },
+    {
+     "it": "il tirocinante",
+     "de": "der Praktikant"
+    },
+    {
+     "it": "il salario",
+     "de": "der Lohn"
+    },
+    {
+     "it": "a tempo pieno",
+     "de": "in Vollzeit"
+    },
+    {
+     "it": "a tempo parziale",
+     "de": "in Teilzeit"
+    },
+    {
+     "it": "il fornitore",
+     "de": "der Lieferant"
+    },
+    {
+     "it": "il settore",
+     "de": "die Branche"
+    },
+    {
+     "it": "il libero professionista",
+     "de": "der Freiberufler"
+    },
+    {
+     "it": "in proprio",
+     "de": "selbstständig"
+    },
+    {
+     "it": "l'obiettivo",
+     "de": "das Ziel"
+    },
+    {
+     "it": "la competenza",
+     "de": "die Kompetenz"
+    },
+    {
+     "it": "la qualifica",
+     "de": "die Qualifikation"
+    },
+    {
+     "it": "il requisito",
+     "de": "die Voraussetzung"
+    },
+    {
+     "it": "candidarsi",
+     "de": "sich bewerben"
+    },
+    {
+     "it": "l'artigiano",
+     "de": "der Handwerker"
+    },
+    {
+     "it": "il veterinario",
+     "de": "der Tierarzt"
+    },
+    {
+     "it": "il ragioniere",
+     "de": "der Buchhalter"
+    },
+    {
+     "it": "l'imprenditore",
+     "de": "der Unternehmer"
+    },
+    {
+     "it": "il personale",
+     "de": "das Personal"
+    },
+    {
+     "it": "le risorse umane",
+     "de": "die Personalabteilung"
+    },
+    {
+     "it": "la mansione",
+     "de": "der Aufgabenbereich"
+    },
+    {
+     "it": "il ruolo",
+     "de": "die Rolle"
+    },
+    {
+     "it": "la sede",
+     "de": "der Firmensitz"
+    },
+    {
+     "it": "la filiale",
+     "de": "die Filiale"
+    },
+    {
+     "it": "lo stage",
+     "de": "das Praktikum"
+    },
+    {
+     "it": "il periodo di prova",
+     "de": "die Probezeit"
+    },
+    {
+     "it": "il giorno libero",
+     "de": "der freie Tag"
+    },
+    {
+     "it": "il permesso",
+     "de": "die Erlaubnis / Freistellung"
+    },
+    {
+     "it": "il pendolare",
+     "de": "der Pendler"
+    },
+    {
+     "it": "lo smart working",
+     "de": "das Homeoffice"
+    },
+    {
+     "it": "il magazzino",
+     "de": "das Lager"
+    },
+    {
+     "it": "il dirigente",
+     "de": "die Führungskraft"
+    },
+    {
+     "it": "il socio",
+     "de": "der Geschäftspartner"
+    },
+    {
+     "it": "l'orario flessibile",
+     "de": "die Gleitzeit"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_office",
+   "level": "B1",
+   "title": "Büro & Kommunikation",
+   "emoji": "🖥️",
+   "words": [
+    {
+     "it": "stampare",
+     "de": "drucken"
+    },
+    {
+     "it": "la cartella",
+     "de": "der Ordner / die Mappe"
+    },
+    {
+     "it": "la sala riunioni",
+     "de": "der Besprechungsraum"
+    },
+    {
+     "it": "l'ordine del giorno",
+     "de": "die Tagesordnung"
+    },
+    {
+     "it": "il verbale",
+     "de": "das Protokoll"
+    },
+    {
+     "it": "la presentazione",
+     "de": "die Präsentation"
+    },
+    {
+     "it": "presentare",
+     "de": "vorstellen / präsentieren"
+    },
+    {
+     "it": "la segreteria",
+     "de": "das Sekretariat"
+    },
+    {
+     "it": "il segretario",
+     "de": "der Sekretär"
+    },
+    {
+     "it": "il responsabile",
+     "de": "der Verantwortliche"
+    },
+    {
+     "it": "il collaboratore",
+     "de": "der Mitarbeiter"
+    },
+    {
+     "it": "trattare",
+     "de": "verhandeln / behandeln"
+    },
+    {
+     "it": "la fattura",
+     "de": "die Rechnung"
+    },
+    {
+     "it": "l'ordine",
+     "de": "die Bestellung / Ordnung"
+    },
+    {
+     "it": "inoltrare",
+     "de": "weiterleiten"
+    },
+    {
+     "it": "il destinatario",
+     "de": "der Empfänger"
+    },
+    {
+     "it": "il mittente",
+     "de": "der Absender"
+    },
+    {
+     "it": "l'oggetto",
+     "de": "der Betreff / Gegenstand"
+    },
+    {
+     "it": "l'agenda",
+     "de": "der Terminkalender"
+    },
+    {
+     "it": "fissare un appuntamento",
+     "de": "einen Termin vereinbaren"
+    },
+    {
+     "it": "rinviare",
+     "de": "verschieben"
+    },
+    {
+     "it": "la conferenza",
+     "de": "die Konferenz"
+    },
+    {
+     "it": "la videochiamata",
+     "de": "der Videoanruf"
+    },
+    {
+     "it": "il partecipante",
+     "de": "der Teilnehmer"
+    },
+    {
+     "it": "partecipare",
+     "de": "teilnehmen"
+    },
+    {
+     "it": "comunicare",
+     "de": "mitteilen"
+    },
+    {
+     "it": "il malinteso",
+     "de": "das Missverständnis"
+    },
+    {
+     "it": "la collaborazione",
+     "de": "die Zusammenarbeit"
+    },
+    {
+     "it": "l'incarico",
+     "de": "der Auftrag"
+    },
+    {
+     "it": "l'orario di lavoro",
+     "de": "die Arbeitszeit"
+    },
+    {
+     "it": "la fotocopiatrice",
+     "de": "der Kopierer"
+    },
+    {
+     "it": "il fascicolo",
+     "de": "die Akte"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_housing",
+   "level": "B1",
+   "title": "Wohnen & Mieten",
+   "emoji": "🏠",
+   "words": [
+    {
+     "it": "l'amministratore",
+     "de": "der Hausverwalter"
+    },
+    {
+     "it": "le spese condominiali",
+     "de": "die Nebenkosten"
+    },
+    {
+     "it": "la caparra",
+     "de": "die Kaution"
+    },
+    {
+     "it": "il contratto d'affitto",
+     "de": "der Mietvertrag"
+    },
+    {
+     "it": "l'annuncio",
+     "de": "die Anzeige"
+    },
+    {
+     "it": "l'agenzia immobiliare",
+     "de": "der Immobilienmakler"
+    },
+    {
+     "it": "il monolocale",
+     "de": "die Einzimmerwohnung"
+    },
+    {
+     "it": "il bilocale",
+     "de": "die Zweizimmerwohnung"
+    },
+    {
+     "it": "arredato",
+     "de": "möbliert"
+    },
+    {
+     "it": "traslocare",
+     "de": "umziehen"
+    },
+    {
+     "it": "il contatore",
+     "de": "der Zähler"
+    },
+    {
+     "it": "il terrazzo",
+     "de": "die Terrasse"
+    },
+    {
+     "it": "la soffitta",
+     "de": "der Dachboden"
+    },
+    {
+     "it": "il soffitto",
+     "de": "die Zimmerdecke"
+    },
+    {
+     "it": "il muro",
+     "de": "die Mauer"
+    },
+    {
+     "it": "l'interruttore",
+     "de": "der Lichtschalter"
+    },
+    {
+     "it": "il vicinato",
+     "de": "die Nachbarschaft"
+    },
+    {
+     "it": "il portone",
+     "de": "das Haustor"
+    },
+    {
+     "it": "il citofono",
+     "de": "die Gegensprechanlage"
+    },
+    {
+     "it": "il campanello",
+     "de": "die Klingel"
+    },
+    {
+     "it": "ristrutturare",
+     "de": "renovieren"
+    },
+    {
+     "it": "la serratura",
+     "de": "das Türschloss"
+    },
+    {
+     "it": "il furgone",
+     "de": "der Transporter"
+    },
+    {
+     "it": "la mansarda",
+     "de": "die Dachwohnung"
+    },
+    {
+     "it": "la villetta",
+     "de": "das Einfamilienhaus"
+    },
+    {
+     "it": "il pianterreno",
+     "de": "das Erdgeschoss"
+    },
+    {
+     "it": "il seminterrato",
+     "de": "das Untergeschoss"
+    },
+    {
+     "it": "la caldaia",
+     "de": "der Heizkessel"
+    },
+    {
+     "it": "la tapparella",
+     "de": "der Rollladen"
+    },
+    {
+     "it": "il davanzale",
+     "de": "die Fensterbank"
+    },
+    {
+     "it": "il lampadario",
+     "de": "der Kronleuchter"
+    },
+    {
+     "it": "la mensola",
+     "de": "das Regalbrett"
+    },
+    {
+     "it": "la cassettiera",
+     "de": "die Kommode"
+    },
+    {
+     "it": "il materasso",
+     "de": "die Matratze"
+    },
+    {
+     "it": "la manutenzione",
+     "de": "die Instandhaltung"
+    },
+    {
+     "it": "il metro quadro",
+     "de": "der Quadratmeter"
+    },
+    {
+     "it": "disdire",
+     "de": "kündigen (Vertrag)"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_bureaucracy",
+   "level": "B1",
+   "title": "Behörden & Post",
+   "emoji": "🏛️",
+   "words": [
+    {
+     "it": "compilare",
+     "de": "ausfüllen"
+    },
+    {
+     "it": "il timbro",
+     "de": "der Stempel"
+    },
+    {
+     "it": "la pratica",
+     "de": "der Vorgang / die Akte"
+    },
+    {
+     "it": "lo sportello",
+     "de": "der Schalter"
+    },
+    {
+     "it": "l'ufficio postale",
+     "de": "das Postamt"
+    },
+    {
+     "it": "la raccomandata",
+     "de": "das Einschreiben"
+    },
+    {
+     "it": "il pacco",
+     "de": "das Paket"
+    },
+    {
+     "it": "spedire",
+     "de": "verschicken"
+    },
+    {
+     "it": "valido",
+     "de": "gültig"
+    },
+    {
+     "it": "scaduto",
+     "de": "abgelaufen"
+    },
+    {
+     "it": "rinnovare",
+     "de": "erneuern / verlängern"
+    },
+    {
+     "it": "il certificato",
+     "de": "die Bescheinigung"
+    },
+    {
+     "it": "la ricevuta",
+     "de": "die Quittung"
+    },
+    {
+     "it": "la cittadinanza",
+     "de": "die Staatsbürgerschaft"
+    },
+    {
+     "it": "la dichiarazione dei redditi",
+     "de": "die Steuererklärung"
+    },
+    {
+     "it": "l'autorizzazione",
+     "de": "die Genehmigung"
+    },
+    {
+     "it": "obbligatorio",
+     "de": "verpflichtend"
+    },
+    {
+     "it": "la tessera sanitaria",
+     "de": "die Krankenkassenkarte"
+    },
+    {
+     "it": "il francobollo",
+     "de": "die Briefmarke"
+    },
+    {
+     "it": "la cassetta delle lettere",
+     "de": "der Briefkasten"
+    },
+    {
+     "it": "la consegna",
+     "de": "die Zustellung / Lieferung"
+    },
+    {
+     "it": "il CAP",
+     "de": "die Postleitzahl"
+    },
+    {
+     "it": "la data di nascita",
+     "de": "das Geburtsdatum"
+    },
+    {
+     "it": "il luogo di nascita",
+     "de": "der Geburtsort"
+    },
+    {
+     "it": "lo stato civile",
+     "de": "der Familienstand"
+    },
+    {
+     "it": "celibe",
+     "de": "ledig (Mann)"
+    },
+    {
+     "it": "nubile",
+     "de": "ledig (Frau)"
+    },
+    {
+     "it": "l'ambasciata",
+     "de": "die Botschaft"
+    },
+    {
+     "it": "il consolato",
+     "de": "das Konsulat"
+    },
+    {
+     "it": "la fototessera",
+     "de": "das Passfoto"
+    },
+    {
+     "it": "la delega",
+     "de": "die Vollmacht"
+    },
+    {
+     "it": "la copia",
+     "de": "die Kopie"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_money",
+   "level": "B1",
+   "title": "Bank & Geld",
+   "emoji": "💶",
+   "words": [
+    {
+     "it": "prelevare",
+     "de": "abheben"
+    },
+    {
+     "it": "gli interessi",
+     "de": "die Zinsen"
+    },
+    {
+     "it": "il denaro",
+     "de": "das Geld"
+    },
+    {
+     "it": "il cambio",
+     "de": "der Wechselkurs / Tausch"
+    },
+    {
+     "it": "le spese",
+     "de": "die Ausgaben"
+    },
+    {
+     "it": "il saldo",
+     "de": "der Kontostand / Ausverkauf"
+    },
+    {
+     "it": "l'estratto conto",
+     "de": "der Kontoauszug"
+    },
+    {
+     "it": "a rate",
+     "de": "in Raten"
+    },
+    {
+     "it": "la rata",
+     "de": "die Rate"
+    },
+    {
+     "it": "l'assegno",
+     "de": "der Scheck"
+    },
+    {
+     "it": "il cassiere",
+     "de": "der Kassierer"
+    },
+    {
+     "it": "aprire un conto",
+     "de": "ein Konto eröffnen"
+    },
+    {
+     "it": "il versamento",
+     "de": "die Einzahlung"
+    },
+    {
+     "it": "depositare",
+     "de": "einzahlen"
+    },
+    {
+     "it": "il prelievo",
+     "de": "die Abhebung"
+    },
+    {
+     "it": "la commissione",
+     "de": "die Gebühr / Kommission"
+    },
+    {
+     "it": "il PIN",
+     "de": "die PIN"
+    },
+    {
+     "it": "la carta prepagata",
+     "de": "die Prepaidkarte"
+    },
+    {
+     "it": "il salvadanaio",
+     "de": "das Sparschwein"
+    },
+    {
+     "it": "la paghetta",
+     "de": "das Taschengeld"
+    },
+    {
+     "it": "il costo della vita",
+     "de": "die Lebenshaltungskosten"
+    },
+    {
+     "it": "la ricarica",
+     "de": "die Guthabenaufladung"
+    },
+    {
+     "it": "il credito",
+     "de": "das Guthaben / der Kredit"
+    },
+    {
+     "it": "il rimborso",
+     "de": "die Rückerstattung"
+    },
+    {
+     "it": "rimborsare",
+     "de": "zurückerstatten"
+    },
+    {
+     "it": "la garanzia",
+     "de": "die Garantie"
+    },
+    {
+     "it": "l'affare",
+     "de": "das Geschäft / Schnäppchen"
+    },
+    {
+     "it": "conveniente",
+     "de": "günstig / preiswert"
+    },
+    {
+     "it": "a buon mercato",
+     "de": "billig"
+    },
+    {
+     "it": "l'importo",
+     "de": "der Betrag"
+    },
+    {
+     "it": "la somma",
+     "de": "die Summe"
+    },
+    {
+     "it": "la polizza",
+     "de": "die Versicherungspolice"
+    },
+    {
+     "it": "in rosso",
+     "de": "im Minus"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_health",
+   "level": "B1",
+   "title": "Gesundheit & Körper II",
+   "emoji": "🩺",
+   "words": [
+    {
+     "it": "il polmone",
+     "de": "die Lunge"
+    },
+    {
+     "it": "il fegato",
+     "de": "die Leber"
+    },
+    {
+     "it": "l'osso",
+     "de": "der Knochen"
+    },
+    {
+     "it": "il muscolo",
+     "de": "der Muskel"
+    },
+    {
+     "it": "il petto",
+     "de": "die Brust"
+    },
+    {
+     "it": "il gomito",
+     "de": "der Ellbogen"
+    },
+    {
+     "it": "la caviglia",
+     "de": "der Knöchel"
+    },
+    {
+     "it": "il polso",
+     "de": "das Handgelenk / der Puls"
+    },
+    {
+     "it": "ferirsi",
+     "de": "sich verletzen"
+    },
+    {
+     "it": "rompersi",
+     "de": "sich brechen"
+    },
+    {
+     "it": "lo sciroppo",
+     "de": "der Sirup"
+    },
+    {
+     "it": "allergico",
+     "de": "allergisch"
+    },
+    {
+     "it": "l'analisi del sangue",
+     "de": "die Blutuntersuchung"
+    },
+    {
+     "it": "la nausea",
+     "de": "die Übelkeit"
+    },
+    {
+     "it": "svenire",
+     "de": "ohnmächtig werden"
+    },
+    {
+     "it": "il cervello",
+     "de": "das Gehirn"
+    },
+    {
+     "it": "il rene",
+     "de": "die Niere"
+    },
+    {
+     "it": "l'intestino",
+     "de": "der Darm"
+    },
+    {
+     "it": "la vena",
+     "de": "die Vene"
+    },
+    {
+     "it": "il mento",
+     "de": "das Kinn"
+    },
+    {
+     "it": "l'unghia",
+     "de": "der Fingernagel"
+    },
+    {
+     "it": "il sopracciglio",
+     "de": "die Augenbraue"
+    },
+    {
+     "it": "la coscia",
+     "de": "der Oberschenkel"
+    },
+    {
+     "it": "la puntura",
+     "de": "die Spritze / der Stich"
+    },
+    {
+     "it": "il gesso",
+     "de": "der Gips"
+    },
+    {
+     "it": "la cicatrice",
+     "de": "die Narbe"
+    },
+    {
+     "it": "il livido",
+     "de": "der blaue Fleck"
+    },
+    {
+     "it": "il prurito",
+     "de": "der Juckreiz"
+    },
+    {
+     "it": "il medico di famiglia",
+     "de": "der Hausarzt"
+    },
+    {
+     "it": "il sudore",
+     "de": "der Schweiß"
+    },
+    {
+     "it": "sudare",
+     "de": "schwitzen"
+    },
+    {
+     "it": "l'udito",
+     "de": "das Gehör"
+    },
+    {
+     "it": "il battito cardiaco",
+     "de": "der Herzschlag"
+    },
+    {
+     "it": "il tallone",
+     "de": "die Ferse"
+    },
+    {
+     "it": "la pomata",
+     "de": "die Salbe"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_media",
+   "level": "B1",
+   "title": "Medien & Internet",
+   "emoji": "📰",
+   "words": [
+    {
+     "it": "la rivista",
+     "de": "die Zeitschrift"
+    },
+    {
+     "it": "il canale",
+     "de": "der Sender / Kanal"
+    },
+    {
+     "it": "il programma",
+     "de": "das Programm"
+    },
+    {
+     "it": "la serie",
+     "de": "die Serie"
+    },
+    {
+     "it": "il documentario",
+     "de": "der Dokumentarfilm"
+    },
+    {
+     "it": "il sito",
+     "de": "die Webseite"
+    },
+    {
+     "it": "navigare",
+     "de": "surfen"
+    },
+    {
+     "it": "scaricare",
+     "de": "herunterladen"
+    },
+    {
+     "it": "caricare",
+     "de": "hochladen / laden"
+    },
+    {
+     "it": "il profilo",
+     "de": "das Profil"
+    },
+    {
+     "it": "la password",
+     "de": "das Passwort"
+    },
+    {
+     "it": "accedere",
+     "de": "sich einloggen / zugreifen"
+    },
+    {
+     "it": "il motore di ricerca",
+     "de": "die Suchmaschine"
+    },
+    {
+     "it": "il collegamento",
+     "de": "die Verbindung / der Link"
+    },
+    {
+     "it": "la bufala",
+     "de": "die Falschmeldung"
+    },
+    {
+     "it": "l'informazione",
+     "de": "die Information"
+    },
+    {
+     "it": "informarsi",
+     "de": "sich informieren"
+    },
+    {
+     "it": "la puntata",
+     "de": "die Folge"
+    },
+    {
+     "it": "l'abbonamento",
+     "de": "das Abonnement"
+    },
+    {
+     "it": "il conduttore",
+     "de": "der Moderator"
+    },
+    {
+     "it": "lo spot",
+     "de": "der Werbespot"
+    },
+    {
+     "it": "i sottotitoli",
+     "de": "die Untertitel"
+    },
+    {
+     "it": "doppiato",
+     "de": "synchronisiert"
+    },
+    {
+     "it": "il nome utente",
+     "de": "der Benutzername"
+    },
+    {
+     "it": "registrarsi",
+     "de": "sich registrieren"
+    },
+    {
+     "it": "cliccare",
+     "de": "klicken"
+    },
+    {
+     "it": "mettere mi piace",
+     "de": "liken"
+    },
+    {
+     "it": "la rubrica",
+     "de": "die Rubrik / das Adressbuch"
+    },
+    {
+     "it": "l'edizione",
+     "de": "die Ausgabe"
+    },
+    {
+     "it": "l'inviato",
+     "de": "der Korrespondent"
+    },
+    {
+     "it": "l'ascoltatore",
+     "de": "der Zuhörer"
+    },
+    {
+     "it": "il volume",
+     "de": "die Lautstärke"
+    },
+    {
+     "it": "il telespettatore",
+     "de": "der Fernsehzuschauer"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_tech",
+   "level": "B1",
+   "title": "Technik & Handy",
+   "emoji": "📱",
+   "words": [
+    {
+     "it": "la batteria",
+     "de": "der Akku"
+    },
+    {
+     "it": "il caricabatterie",
+     "de": "das Ladegerät"
+    },
+    {
+     "it": "ricaricare",
+     "de": "aufladen"
+    },
+    {
+     "it": "lo schermo",
+     "de": "der Bildschirm"
+    },
+    {
+     "it": "la tastiera",
+     "de": "die Tastatur"
+    },
+    {
+     "it": "il portatile",
+     "de": "der Laptop"
+    },
+    {
+     "it": "l'app",
+     "de": "die App"
+    },
+    {
+     "it": "installare",
+     "de": "installieren"
+    },
+    {
+     "it": "aggiornare",
+     "de": "aktualisieren"
+    },
+    {
+     "it": "l'aggiornamento",
+     "de": "das Update"
+    },
+    {
+     "it": "cancellare",
+     "de": "löschen"
+    },
+    {
+     "it": "il dispositivo",
+     "de": "das Gerät"
+    },
+    {
+     "it": "l'elettrodomestico",
+     "de": "das Haushaltsgerät"
+    },
+    {
+     "it": "il microonde",
+     "de": "die Mikrowelle"
+    },
+    {
+     "it": "la spina",
+     "de": "der Stecker"
+    },
+    {
+     "it": "il cavo",
+     "de": "das Kabel"
+    },
+    {
+     "it": "la connessione",
+     "de": "die Verbindung"
+    },
+    {
+     "it": "guasto",
+     "de": "defekt"
+    },
+    {
+     "it": "la fotocamera",
+     "de": "die Kamera"
+    },
+    {
+     "it": "il telecomando",
+     "de": "die Fernbedienung"
+    },
+    {
+     "it": "le cuffie",
+     "de": "die Kopfhörer"
+    },
+    {
+     "it": "l'altoparlante",
+     "de": "der Lautsprecher"
+    },
+    {
+     "it": "la suoneria",
+     "de": "der Klingelton"
+    },
+    {
+     "it": "la chiavetta USB",
+     "de": "der USB-Stick"
+    },
+    {
+     "it": "digitale",
+     "de": "digital"
+    },
+    {
+     "it": "inserire",
+     "de": "einfügen / einstecken"
+    },
+    {
+     "it": "digitare",
+     "de": "eintippen"
+    },
+    {
+     "it": "la memoria",
+     "de": "der Speicher"
+    },
+    {
+     "it": "lo smartphone",
+     "de": "das Smartphone"
+    },
+    {
+     "it": "il wifi",
+     "de": "das WLAN"
+    },
+    {
+     "it": "il segnale",
+     "de": "das Signal / der Empfang"
+    },
+    {
+     "it": "la tariffa",
+     "de": "der Tarif"
+    },
+    {
+     "it": "il frullatore",
+     "de": "der Mixer"
+    },
+    {
+     "it": "il tostapane",
+     "de": "der Toaster"
+    },
+    {
+     "it": "il bollitore",
+     "de": "der Wasserkocher"
+    },
+    {
+     "it": "l'asciugacapelli",
+     "de": "der Föhn"
+    },
+    {
+     "it": "la pila",
+     "de": "die Batterie"
+    },
+    {
+     "it": "riavviare",
+     "de": "neu starten"
+    },
+    {
+     "it": "bloccarsi",
+     "de": "sich aufhängen"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_nature",
+   "level": "B1",
+   "title": "Tiere & Natur",
+   "emoji": "🐾",
+   "words": [
+    {
+     "it": "il deserto",
+     "de": "die Wüste"
+    },
+    {
+     "it": "l'aria",
+     "de": "die Luft"
+    },
+    {
+     "it": "la specie",
+     "de": "die Art"
+    },
+    {
+     "it": "il fulmine",
+     "de": "der Blitz"
+    },
+    {
+     "it": "inquinato",
+     "de": "verschmutzt"
+    },
+    {
+     "it": "ecologico",
+     "de": "umweltfreundlich"
+    },
+    {
+     "it": "il bidone",
+     "de": "die Mülltonne"
+    },
+    {
+     "it": "il vetro",
+     "de": "das Glas (Material)"
+    },
+    {
+     "it": "la capra",
+     "de": "die Ziege"
+    },
+    {
+     "it": "l'asino",
+     "de": "der Esel"
+    },
+    {
+     "it": "il coniglio",
+     "de": "das Kaninchen"
+    },
+    {
+     "it": "il topo",
+     "de": "die Maus"
+    },
+    {
+     "it": "il lupo",
+     "de": "der Wolf"
+    },
+    {
+     "it": "la volpe",
+     "de": "der Fuchs"
+    },
+    {
+     "it": "il cervo",
+     "de": "der Hirsch"
+    },
+    {
+     "it": "lo scoiattolo",
+     "de": "das Eichhörnchen"
+    },
+    {
+     "it": "il serpente",
+     "de": "die Schlange"
+    },
+    {
+     "it": "la mosca",
+     "de": "die Fliege"
+    },
+    {
+     "it": "il ragno",
+     "de": "die Spinne"
+    },
+    {
+     "it": "la formica",
+     "de": "die Ameise"
+    },
+    {
+     "it": "il delfino",
+     "de": "der Delfin"
+    },
+    {
+     "it": "la balena",
+     "de": "der Wal"
+    },
+    {
+     "it": "l'animale domestico",
+     "de": "das Haustier"
+    },
+    {
+     "it": "la radice",
+     "de": "die Wurzel"
+    },
+    {
+     "it": "la grotta",
+     "de": "die Höhle"
+    },
+    {
+     "it": "il vulcano",
+     "de": "der Vulkan"
+    },
+    {
+     "it": "la foresta",
+     "de": "der Forst / Urwald"
+    },
+    {
+     "it": "il cinghiale",
+     "de": "das Wildschwein"
+    },
+    {
+     "it": "il gufo",
+     "de": "die Eule"
+    },
+    {
+     "it": "l'aquila",
+     "de": "der Adler"
+    },
+    {
+     "it": "la tartaruga",
+     "de": "die Schildkröte"
+    },
+    {
+     "it": "la rana",
+     "de": "der Frosch"
+    },
+    {
+     "it": "il pappagallo",
+     "de": "der Papagei"
+    },
+    {
+     "it": "il riccio",
+     "de": "der Igel"
+    },
+    {
+     "it": "il gabbiano",
+     "de": "die Möwe"
+    },
+    {
+     "it": "la lumaca",
+     "de": "die Schnecke"
+    },
+    {
+     "it": "il nido",
+     "de": "das Nest"
+    },
+    {
+     "it": "la tana",
+     "de": "der Bau (Tier)"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_traffic",
+   "level": "B1",
+   "title": "Reisen & Verkehr II",
+   "emoji": "🚦",
+   "words": [
+    {
+     "it": "la patente",
+     "de": "der Führerschein"
+    },
+    {
+     "it": "l'ingorgo",
+     "de": "der Stau"
+    },
+    {
+     "it": "l'incidente",
+     "de": "der Unfall"
+    },
+    {
+     "it": "la rotonda",
+     "de": "der Kreisverkehr"
+    },
+    {
+     "it": "il pedaggio",
+     "de": "die Maut"
+    },
+    {
+     "it": "il distributore",
+     "de": "die Tankstelle"
+    },
+    {
+     "it": "parcheggiare",
+     "de": "parken"
+    },
+    {
+     "it": "il pedone",
+     "de": "der Fußgänger"
+    },
+    {
+     "it": "la coincidenza",
+     "de": "der Anschluss / Zufall"
+    },
+    {
+     "it": "la destinazione",
+     "de": "das Reiseziel"
+    },
+    {
+     "it": "il passeggero",
+     "de": "der Fahrgast"
+    },
+    {
+     "it": "il controllore",
+     "de": "der Kontrolleur"
+    },
+    {
+     "it": "timbrare",
+     "de": "entwerten"
+    },
+    {
+     "it": "la carta d'imbarco",
+     "de": "die Bordkarte"
+    },
+    {
+     "it": "atterrare",
+     "de": "landen"
+    },
+    {
+     "it": "decollare",
+     "de": "starten (Flugzeug)"
+    },
+    {
+     "it": "la crociera",
+     "de": "die Kreuzfahrt"
+    },
+    {
+     "it": "il casco",
+     "de": "der Helm"
+    },
+    {
+     "it": "la cintura di sicurezza",
+     "de": "der Sicherheitsgurt"
+    },
+    {
+     "it": "il limite di velocità",
+     "de": "das Tempolimit"
+    },
+    {
+     "it": "sorpassare",
+     "de": "überholen"
+    },
+    {
+     "it": "frenare",
+     "de": "bremsen"
+    },
+    {
+     "it": "il freno",
+     "de": "die Bremse"
+    },
+    {
+     "it": "il motore",
+     "de": "der Motor"
+    },
+    {
+     "it": "il volante",
+     "de": "das Lenkrad"
+    },
+    {
+     "it": "la ruota",
+     "de": "das Rad"
+    },
+    {
+     "it": "il bagagliaio",
+     "de": "der Kofferraum"
+    },
+    {
+     "it": "la targa",
+     "de": "das Nummernschild"
+    },
+    {
+     "it": "la corsia",
+     "de": "die Fahrspur"
+    },
+    {
+     "it": "il senso unico",
+     "de": "die Einbahnstraße"
+    },
+    {
+     "it": "il divieto di sosta",
+     "de": "das Halteverbot"
+    },
+    {
+     "it": "fare il pieno",
+     "de": "volltanken"
+    },
+    {
+     "it": "la carrozza",
+     "de": "der Waggon"
+    },
+    {
+     "it": "il capolinea",
+     "de": "die Endstation"
+    },
+    {
+     "it": "lo scalo",
+     "de": "die Zwischenlandung"
+    },
+    {
+     "it": "la navetta",
+     "de": "der Shuttlebus"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_cooking",
+   "level": "B1",
+   "title": "Essen & Kochen II",
+   "emoji": "🍳",
+   "words": [
+    {
+     "it": "il sapore",
+     "de": "der Geschmack"
+    },
+    {
+     "it": "saporito",
+     "de": "schmackhaft"
+    },
+    {
+     "it": "piccante",
+     "de": "scharf"
+    },
+    {
+     "it": "salato",
+     "de": "salzig"
+    },
+    {
+     "it": "amaro",
+     "de": "bitter"
+    },
+    {
+     "it": "acido",
+     "de": "sauer"
+    },
+    {
+     "it": "crudo",
+     "de": "roh"
+    },
+    {
+     "it": "cotto",
+     "de": "gekocht / gegart"
+    },
+    {
+     "it": "bollire",
+     "de": "kochen (sieden)"
+    },
+    {
+     "it": "friggere",
+     "de": "frittieren"
+    },
+    {
+     "it": "arrostire",
+     "de": "braten / rösten"
+    },
+    {
+     "it": "alla griglia",
+     "de": "gegrillt"
+    },
+    {
+     "it": "sbucciare",
+     "de": "schälen"
+    },
+    {
+     "it": "tritare",
+     "de": "hacken / zerkleinern"
+    },
+    {
+     "it": "grattugiare",
+     "de": "reiben"
+    },
+    {
+     "it": "affettare",
+     "de": "in Scheiben schneiden"
+    },
+    {
+     "it": "assaggiare",
+     "de": "probieren / kosten"
+    },
+    {
+     "it": "condire",
+     "de": "würzen / anmachen"
+    },
+    {
+     "it": "la padella",
+     "de": "die Pfanne"
+    },
+    {
+     "it": "il coperchio",
+     "de": "der Deckel"
+    },
+    {
+     "it": "il tagliere",
+     "de": "das Schneidebrett"
+    },
+    {
+     "it": "il mestolo",
+     "de": "die Schöpfkelle"
+    },
+    {
+     "it": "la ciotola",
+     "de": "die Schüssel"
+    },
+    {
+     "it": "il prezzemolo",
+     "de": "die Petersilie"
+    },
+    {
+     "it": "il basilico",
+     "de": "das Basilikum"
+    },
+    {
+     "it": "la farina",
+     "de": "das Mehl"
+    },
+    {
+     "it": "il lievito",
+     "de": "die Hefe"
+    },
+    {
+     "it": "l'aceto",
+     "de": "der Essig"
+    },
+    {
+     "it": "la panna",
+     "de": "die Sahne"
+    },
+    {
+     "it": "il brodo",
+     "de": "die Brühe"
+    },
+    {
+     "it": "l'ingrediente",
+     "de": "die Zutat"
+    },
+    {
+     "it": "la porzione",
+     "de": "die Portion"
+    },
+    {
+     "it": "vegetariano",
+     "de": "vegetarisch"
+    },
+    {
+     "it": "la teglia",
+     "de": "das Backblech"
+    },
+    {
+     "it": "il cavolo",
+     "de": "der Kohl"
+    },
+    {
+     "it": "gli spinaci",
+     "de": "der Spinat"
+    },
+    {
+     "it": "i funghi",
+     "de": "die Pilze"
+    },
+    {
+     "it": "le zucchine",
+     "de": "die Zucchini"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_family",
+   "level": "B1",
+   "title": "Familie & Beziehungen II",
+   "emoji": "👪",
+   "words": [
+    {
+     "it": "fidanzarsi",
+     "de": "sich verloben"
+    },
+    {
+     "it": "il divorzio",
+     "de": "die Scheidung"
+    },
+    {
+     "it": "divorziare",
+     "de": "sich scheiden lassen"
+    },
+    {
+     "it": "separarsi",
+     "de": "sich trennen"
+    },
+    {
+     "it": "lasciarsi",
+     "de": "Schluss machen"
+    },
+    {
+     "it": "il suocero",
+     "de": "der Schwiegervater"
+    },
+    {
+     "it": "la suocera",
+     "de": "die Schwiegermutter"
+    },
+    {
+     "it": "il genero",
+     "de": "der Schwiegersohn"
+    },
+    {
+     "it": "la nuora",
+     "de": "die Schwiegertochter"
+    },
+    {
+     "it": "il cognato",
+     "de": "der Schwager"
+    },
+    {
+     "it": "la cognata",
+     "de": "die Schwägerin"
+    },
+    {
+     "it": "il parente",
+     "de": "der Verwandte"
+    },
+    {
+     "it": "il gemello",
+     "de": "der Zwilling"
+    },
+    {
+     "it": "il figlio unico",
+     "de": "das Einzelkind"
+    },
+    {
+     "it": "il neonato",
+     "de": "das Neugeborene"
+    },
+    {
+     "it": "la gravidanza",
+     "de": "die Schwangerschaft"
+    },
+    {
+     "it": "incinta",
+     "de": "schwanger"
+    },
+    {
+     "it": "crescere",
+     "de": "aufwachsen / wachsen"
+    },
+    {
+     "it": "educare",
+     "de": "erziehen"
+    },
+    {
+     "it": "l'educazione",
+     "de": "die Erziehung"
+    },
+    {
+     "it": "l'adolescente",
+     "de": "der Jugendliche"
+    },
+    {
+     "it": "l'anziano",
+     "de": "der ältere Mensch"
+    },
+    {
+     "it": "la vedova",
+     "de": "die Witwe"
+    },
+    {
+     "it": "la relazione",
+     "de": "die Beziehung"
+    },
+    {
+     "it": "innamorarsi",
+     "de": "sich verlieben"
+    },
+    {
+     "it": "il litigio",
+     "de": "der Streit"
+    },
+    {
+     "it": "fare pace",
+     "de": "sich versöhnen"
+    },
+    {
+     "it": "l'amicizia",
+     "de": "die Freundschaft"
+    },
+    {
+     "it": "il conoscente",
+     "de": "der Bekannte"
+    },
+    {
+     "it": "il patrigno",
+     "de": "der Stiefvater"
+    },
+    {
+     "it": "la matrigna",
+     "de": "die Stiefmutter"
+    },
+    {
+     "it": "il bisnonno",
+     "de": "der Urgroßvater"
+    },
+    {
+     "it": "l'orfano",
+     "de": "das Waisenkind"
+    },
+    {
+     "it": "adottare",
+     "de": "adoptieren"
+    },
+    {
+     "it": "il fidanzamento",
+     "de": "die Verlobung"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_feelings",
+   "level": "B1",
+   "title": "Charakter & Persönlichkeit",
+   "emoji": "🧠",
+   "words": [
+    {
+     "it": "calmo",
+     "de": "ruhig"
+    },
+    {
+     "it": "onesto",
+     "de": "ehrlich"
+    },
+    {
+     "it": "sincero",
+     "de": "aufrichtig"
+    },
+    {
+     "it": "egoista",
+     "de": "egoistisch"
+    },
+    {
+     "it": "pigro",
+     "de": "faul"
+    },
+    {
+     "it": "socievole",
+     "de": "gesellig"
+    },
+    {
+     "it": "serio",
+     "de": "ernst"
+    },
+    {
+     "it": "ottimista",
+     "de": "optimistisch"
+    },
+    {
+     "it": "curioso",
+     "de": "neugierig"
+    },
+    {
+     "it": "maleducato",
+     "de": "unhöflich"
+    },
+    {
+     "it": "pessimista",
+     "de": "pessimistisch"
+    },
+    {
+     "it": "educato",
+     "de": "höflich"
+    },
+    {
+     "it": "impaziente",
+     "de": "ungeduldig"
+    },
+    {
+     "it": "modesto",
+     "de": "bescheiden"
+    },
+    {
+     "it": "presuntuoso",
+     "de": "eingebildet"
+    },
+    {
+     "it": "arrogante",
+     "de": "arrogant"
+    },
+    {
+     "it": "avaro",
+     "de": "geizig"
+    },
+    {
+     "it": "vigliacco",
+     "de": "feige"
+    },
+    {
+     "it": "fedele",
+     "de": "treu"
+    },
+    {
+     "it": "furbo",
+     "de": "schlau / gerissen"
+    },
+    {
+     "it": "ingenuo",
+     "de": "naiv"
+    },
+    {
+     "it": "spiritoso",
+     "de": "witzig"
+    },
+    {
+     "it": "noioso",
+     "de": "langweilig"
+    },
+    {
+     "it": "antipatico",
+     "de": "unsympathisch"
+    },
+    {
+     "it": "disordinato",
+     "de": "unordentlich"
+    },
+    {
+     "it": "ordinato",
+     "de": "ordentlich"
+    },
+    {
+     "it": "affettuoso",
+     "de": "liebevoll"
+    },
+    {
+     "it": "severo",
+     "de": "streng"
+    },
+    {
+     "it": "estroverso",
+     "de": "extrovertiert"
+    },
+    {
+     "it": "introverso",
+     "de": "introvertiert"
+    },
+    {
+     "it": "creativo",
+     "de": "kreativ"
+    },
+    {
+     "it": "ambizioso",
+     "de": "ehrgeizig"
+    },
+    {
+     "it": "vanitoso",
+     "de": "eitel"
+    },
+    {
+     "it": "comportarsi",
+     "de": "sich verhalten"
+    },
+    {
+     "it": "offendersi",
+     "de": "beleidigt sein"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_opinions",
+   "level": "B1",
+   "title": "Meinungen & Diskussion",
+   "emoji": "💬",
+   "words": [
+    {
+     "it": "essere d'accordo",
+     "de": "einverstanden sein"
+    },
+    {
+     "it": "la discussione",
+     "de": "die Diskussion"
+    },
+    {
+     "it": "convinto",
+     "de": "überzeugt"
+    },
+    {
+     "it": "i pro e i contro",
+     "de": "das Für und Wider"
+    },
+    {
+     "it": "criticare",
+     "de": "kritisieren"
+    },
+    {
+     "it": "la differenza",
+     "de": "der Unterschied"
+    },
+    {
+     "it": "la soluzione",
+     "de": "die Lösung"
+    },
+    {
+     "it": "proporre",
+     "de": "vorschlagen"
+    },
+    {
+     "it": "ovvio",
+     "de": "offensichtlich"
+    },
+    {
+     "it": "chiaro",
+     "de": "klar"
+    },
+    {
+     "it": "in effetti",
+     "de": "in der Tat"
+    },
+    {
+     "it": "infatti",
+     "de": "nämlich / tatsächlich"
+    },
+    {
+     "it": "invece",
+     "de": "stattdessen / dagegen"
+    },
+    {
+     "it": "infine",
+     "de": "schließlich"
+    },
+    {
+     "it": "esagerare",
+     "de": "übertreiben"
+    },
+    {
+     "it": "la ragione",
+     "de": "der Grund / die Vernunft"
+    },
+    {
+     "it": "avere ragione",
+     "de": "recht haben"
+    },
+    {
+     "it": "avere torto",
+     "de": "unrecht haben"
+    },
+    {
+     "it": "a mio avviso",
+     "de": "meiner Ansicht nach"
+    },
+    {
+     "it": "la questione",
+     "de": "die Frage / Angelegenheit"
+    },
+    {
+     "it": "in generale",
+     "de": "im Allgemeinen"
+    },
+    {
+     "it": "d'altronde",
+     "de": "übrigens / schließlich"
+    },
+    {
+     "it": "innanzitutto",
+     "de": "zunächst einmal"
+    },
+    {
+     "it": "oltre a",
+     "de": "außer / neben"
+    },
+    {
+     "it": "da un lato",
+     "de": "einerseits"
+    },
+    {
+     "it": "dall'altro lato",
+     "de": "andererseits"
+    },
+    {
+     "it": "il rispetto",
+     "de": "der Respekt"
+    },
+    {
+     "it": "la minoranza",
+     "de": "die Minderheit"
+    },
+    {
+     "it": "convincente",
+     "de": "überzeugend"
+    },
+    {
+     "it": "assolutamente",
+     "de": "absolut / unbedingt"
+    },
+    {
+     "it": "esattamente",
+     "de": "genau"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_culture",
+   "level": "B1",
+   "title": "Freizeit & Kultur",
+   "emoji": "🎭",
+   "words": [
+    {
+     "it": "il cantante",
+     "de": "der Sänger"
+    },
+    {
+     "it": "il testo",
+     "de": "der Text"
+    },
+    {
+     "it": "l'orchestra",
+     "de": "das Orchester"
+    },
+    {
+     "it": "la galleria",
+     "de": "die Galerie / der Tunnel"
+    },
+    {
+     "it": "l'artista",
+     "de": "der Künstler"
+    },
+    {
+     "it": "l'arte",
+     "de": "die Kunst"
+    },
+    {
+     "it": "il genere",
+     "de": "die Gattung / das Genre"
+    },
+    {
+     "it": "la biglietteria",
+     "de": "die Kasse (Tickets)"
+    },
+    {
+     "it": "applaudire",
+     "de": "applaudieren"
+    },
+    {
+     "it": "l'applauso",
+     "de": "der Beifall"
+    },
+    {
+     "it": "la fotografia",
+     "de": "die Fotografie"
+    },
+    {
+     "it": "il giardinaggio",
+     "de": "die Gartenarbeit"
+    },
+    {
+     "it": "il gioco da tavolo",
+     "de": "das Brettspiel"
+    },
+    {
+     "it": "giocare a carte",
+     "de": "Karten spielen"
+    },
+    {
+     "it": "l'associazione",
+     "de": "der Verein"
+    },
+    {
+     "it": "la sagra",
+     "de": "das Dorffest"
+    },
+    {
+     "it": "la tradizione",
+     "de": "die Tradition"
+    },
+    {
+     "it": "la tromba",
+     "de": "die Trompete"
+    },
+    {
+     "it": "il ritmo",
+     "de": "der Rhythmus"
+    },
+    {
+     "it": "la melodia",
+     "de": "die Melodie"
+    },
+    {
+     "it": "il cantautore",
+     "de": "der Liedermacher"
+    },
+    {
+     "it": "la scultura",
+     "de": "die Skulptur"
+    },
+    {
+     "it": "il ballerino",
+     "de": "der Tänzer"
+    },
+    {
+     "it": "l'opera lirica",
+     "de": "die Oper"
+    },
+    {
+     "it": "la fiera",
+     "de": "die Messe / der Jahrmarkt"
+    },
+    {
+     "it": "lavorare a maglia",
+     "de": "stricken"
+    },
+    {
+     "it": "la collezione",
+     "de": "die Sammlung"
+    },
+    {
+     "it": "collezionare",
+     "de": "sammeln"
+    },
+    {
+     "it": "la serata",
+     "de": "der Abend (Veranstaltung)"
+    },
+    {
+     "it": "il locale",
+     "de": "das Lokal"
+    },
+    {
+     "it": "l'intrattenimento",
+     "de": "die Unterhaltung"
+    },
+    {
+     "it": "il ballo",
+     "de": "der Tanz / Ball"
+    },
+    {
+     "it": "la tombola",
+     "de": "die Tombola"
+    },
+    {
+     "it": "il biliardo",
+     "de": "das Billard"
+    },
+    {
+     "it": "le bocce",
+     "de": "das Boccia"
+    },
+    {
+     "it": "il presepe",
+     "de": "die Weihnachtskrippe"
+    },
+    {
+     "it": "l'evento",
+     "de": "die Veranstaltung"
+    },
+    {
+     "it": "il cartellone",
+     "de": "das Plakat / Programm"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_sport",
+   "level": "B1",
+   "title": "Sport",
+   "emoji": "⚽",
+   "words": [
+    {
+     "it": "l'allenatore",
+     "de": "der Trainer"
+    },
+    {
+     "it": "il campionato",
+     "de": "die Meisterschaft"
+    },
+    {
+     "it": "tifare",
+     "de": "anfeuern"
+    },
+    {
+     "it": "il pallone",
+     "de": "der Ball"
+    },
+    {
+     "it": "il gol",
+     "de": "das Tor (Treffer)"
+    },
+    {
+     "it": "segnare",
+     "de": "ein Tor schießen"
+    },
+    {
+     "it": "l'arbitro",
+     "de": "der Schiedsrichter"
+    },
+    {
+     "it": "il pareggio",
+     "de": "das Unentschieden"
+    },
+    {
+     "it": "la vittoria",
+     "de": "der Sieg"
+    },
+    {
+     "it": "la sconfitta",
+     "de": "die Niederlage"
+    },
+    {
+     "it": "il punteggio",
+     "de": "der Punktestand"
+    },
+    {
+     "it": "il ciclismo",
+     "de": "der Radsport"
+    },
+    {
+     "it": "l'atletica",
+     "de": "die Leichtathletik"
+    },
+    {
+     "it": "l'equitazione",
+     "de": "das Reiten"
+    },
+    {
+     "it": "l'arrampicata",
+     "de": "das Klettern"
+    },
+    {
+     "it": "la maratona",
+     "de": "der Marathon"
+    },
+    {
+     "it": "la medaglia",
+     "de": "die Medaille"
+    },
+    {
+     "it": "il torneo",
+     "de": "das Turnier"
+    },
+    {
+     "it": "sportivo",
+     "de": "sportlich"
+    },
+    {
+     "it": "in forma",
+     "de": "fit"
+    },
+    {
+     "it": "la tuta",
+     "de": "der Trainingsanzug"
+    },
+    {
+     "it": "la scherma",
+     "de": "das Fechten"
+    },
+    {
+     "it": "il portiere",
+     "de": "der Torwart"
+    },
+    {
+     "it": "l'attaccante",
+     "de": "der Stürmer"
+    },
+    {
+     "it": "il difensore",
+     "de": "der Verteidiger"
+    },
+    {
+     "it": "il rigore",
+     "de": "der Elfmeter"
+    },
+    {
+     "it": "il fallo",
+     "de": "das Foul"
+    },
+    {
+     "it": "il traguardo",
+     "de": "die Ziellinie"
+    },
+    {
+     "it": "la classifica",
+     "de": "die Tabelle / Rangliste"
+    },
+    {
+     "it": "la racchetta",
+     "de": "der Schläger"
+    },
+    {
+     "it": "l'atleta",
+     "de": "der Athlet"
+    },
+    {
+     "it": "il ciclista",
+     "de": "der Radfahrer"
+    },
+    {
+     "it": "il calciatore",
+     "de": "der Fußballspieler"
+    },
+    {
+     "it": "lo sciatore",
+     "de": "der Skifahrer"
+    },
+    {
+     "it": "il nuotatore",
+     "de": "der Schwimmer"
+    },
+    {
+     "it": "la pista",
+     "de": "die Piste / Bahn"
+    },
+    {
+     "it": "il canestro",
+     "de": "der Basketballkorb"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_school",
+   "level": "B1",
+   "title": "Schule & Studium",
+   "emoji": "🎓",
+   "words": [
+    {
+     "it": "la facoltà",
+     "de": "die Fakultät"
+    },
+    {
+     "it": "la maturità",
+     "de": "das Abitur"
+    },
+    {
+     "it": "il docente",
+     "de": "der Dozent"
+    },
+    {
+     "it": "il preside",
+     "de": "der Schulleiter"
+    },
+    {
+     "it": "il compagno di classe",
+     "de": "der Mitschüler"
+    },
+    {
+     "it": "la pagella",
+     "de": "das Schulzeugnis"
+    },
+    {
+     "it": "promosso",
+     "de": "versetzt / bestanden"
+    },
+    {
+     "it": "bocciato",
+     "de": "durchgefallen"
+    },
+    {
+     "it": "le ripetizioni",
+     "de": "die Nachhilfe"
+    },
+    {
+     "it": "il vocabolario",
+     "de": "der Wortschatz / das Wörterbuch"
+    },
+    {
+     "it": "la borsa di studio",
+     "de": "das Stipendium"
+    },
+    {
+     "it": "la scuola elementare",
+     "de": "die Grundschule"
+    },
+    {
+     "it": "la scuola media",
+     "de": "die Mittelschule"
+    },
+    {
+     "it": "il liceo",
+     "de": "das Gymnasium"
+    },
+    {
+     "it": "iscriversi",
+     "de": "sich einschreiben"
+    },
+    {
+     "it": "l'iscrizione",
+     "de": "die Anmeldung"
+    },
+    {
+     "it": "il semestre",
+     "de": "das Semester"
+    },
+    {
+     "it": "la mensa",
+     "de": "die Mensa / Kantine"
+    },
+    {
+     "it": "frequentare",
+     "de": "besuchen (Kurs, Schule)"
+    },
+    {
+     "it": "la conoscenza",
+     "de": "das Wissen / die Kenntnis"
+    },
+    {
+     "it": "l'intervallo",
+     "de": "die Schulpause"
+    },
+    {
+     "it": "la pronuncia",
+     "de": "die Aussprache"
+    },
+    {
+     "it": "il seminario",
+     "de": "das Seminar"
+    },
+    {
+     "it": "prendere appunti",
+     "de": "Notizen machen"
+    },
+    {
+     "it": "il riassunto",
+     "de": "die Zusammenfassung"
+    },
+    {
+     "it": "il tema",
+     "de": "der Aufsatz"
+    },
+    {
+     "it": "l'interrogazione",
+     "de": "die mündliche Prüfung"
+    },
+    {
+     "it": "la media",
+     "de": "der Notendurchschnitt"
+    },
+    {
+     "it": "il titolo di studio",
+     "de": "der Bildungsabschluss"
+    },
+    {
+     "it": "memorizzare",
+     "de": "auswendig lernen"
+    },
+    {
+     "it": "copiare",
+     "de": "abschreiben"
+    },
+    {
+     "it": "il collegio",
+     "de": "das Internat"
+    },
+    {
+     "it": "il registro",
+     "de": "das Klassenbuch"
+    },
+    {
+     "it": "il bidello",
+     "de": "der Schulhausmeister"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_society",
+   "level": "B1",
+   "title": "Stadt & Gesellschaft",
+   "emoji": "🏙️",
+   "words": [
+    {
+     "it": "il centro storico",
+     "de": "die Altstadt"
+    },
+    {
+     "it": "il municipio",
+     "de": "das Rathaus"
+    },
+    {
+     "it": "l'abitante",
+     "de": "der Einwohner"
+    },
+    {
+     "it": "la popolazione",
+     "de": "die Bevölkerung"
+    },
+    {
+     "it": "la società",
+     "de": "die Gesellschaft"
+    },
+    {
+     "it": "sociale",
+     "de": "sozial"
+    },
+    {
+     "it": "la politica",
+     "de": "die Politik"
+    },
+    {
+     "it": "il politico",
+     "de": "der Politiker"
+    },
+    {
+     "it": "lo stato",
+     "de": "der Staat"
+    },
+    {
+     "it": "la regione",
+     "de": "die Region"
+    },
+    {
+     "it": "il presidente",
+     "de": "der Präsident"
+    },
+    {
+     "it": "protestare",
+     "de": "protestieren"
+    },
+    {
+     "it": "il ladro",
+     "de": "der Dieb"
+    },
+    {
+     "it": "il furto",
+     "de": "der Diebstahl"
+    },
+    {
+     "it": "la sicurezza",
+     "de": "die Sicherheit"
+    },
+    {
+     "it": "l'immigrazione",
+     "de": "die Einwanderung"
+    },
+    {
+     "it": "l'uguaglianza",
+     "de": "die Gleichheit"
+    },
+    {
+     "it": "la libertà",
+     "de": "die Freiheit"
+    },
+    {
+     "it": "la crisi",
+     "de": "die Krise"
+    },
+    {
+     "it": "la violenza",
+     "de": "die Gewalt"
+    },
+    {
+     "it": "la metropoli",
+     "de": "die Großstadt"
+    },
+    {
+     "it": "il grattacielo",
+     "de": "der Wolkenkratzer"
+    },
+    {
+     "it": "la zona pedonale",
+     "de": "die Fußgängerzone"
+    },
+    {
+     "it": "il servizio",
+     "de": "der Dienst / Service"
+    },
+    {
+     "it": "i vigili del fuoco",
+     "de": "die Feuerwehr"
+    },
+    {
+     "it": "l'incendio",
+     "de": "der Brand"
+    },
+    {
+     "it": "la prigione",
+     "de": "das Gefängnis"
+    },
+    {
+     "it": "il criminale",
+     "de": "der Verbrecher"
+    },
+    {
+     "it": "la guerra",
+     "de": "der Krieg"
+    },
+    {
+     "it": "l'esercito",
+     "de": "die Armee"
+    },
+    {
+     "it": "la religione",
+     "de": "die Religion"
+    },
+    {
+     "it": "la cultura",
+     "de": "die Kultur"
+    },
+    {
+     "it": "l'abitudine",
+     "de": "die Gewohnheit"
+    },
+    {
+     "it": "la bandiera",
+     "de": "die Fahne"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_verbs",
+   "level": "B1",
+   "title": "Häufige Verben B1",
+   "emoji": "🔁",
+   "words": [
+    {
+     "it": "ricordarsi",
+     "de": "sich erinnern"
+    },
+    {
+     "it": "interrompere",
+     "de": "unterbrechen"
+    },
+    {
+     "it": "esprimere",
+     "de": "ausdrücken"
+    },
+    {
+     "it": "rappresentare",
+     "de": "darstellen"
+    },
+    {
+     "it": "trasformare",
+     "de": "verwandeln"
+    },
+    {
+     "it": "gestire",
+     "de": "verwalten / managen"
+    },
+    {
+     "it": "dipendere",
+     "de": "abhängen"
+    },
+    {
+     "it": "appartenere",
+     "de": "gehören"
+    },
+    {
+     "it": "contenere",
+     "de": "enthalten"
+    },
+    {
+     "it": "muoversi",
+     "de": "sich bewegen"
+    },
+    {
+     "it": "avvicinarsi",
+     "de": "sich nähern"
+    },
+    {
+     "it": "allontanarsi",
+     "de": "sich entfernen"
+    },
+    {
+     "it": "abituarsi",
+     "de": "sich gewöhnen"
+    },
+    {
+     "it": "avere voglia di",
+     "de": "Lust haben"
+    },
+    {
+     "it": "accadere",
+     "de": "geschehen"
+    },
+    {
+     "it": "capitare",
+     "de": "passieren / vorkommen"
+    },
+    {
+     "it": "rendere",
+     "de": "zurückgeben / machen"
+    },
+    {
+     "it": "pretendere",
+     "de": "verlangen"
+    },
+    {
+     "it": "fornire",
+     "de": "liefern / bereitstellen"
+    },
+    {
+     "it": "accogliere",
+     "de": "empfangen / aufnehmen"
+    },
+    {
+     "it": "assomigliare",
+     "de": "ähneln"
+    },
+    {
+     "it": "raccogliere",
+     "de": "sammeln / pflücken"
+    },
+    {
+     "it": "tradire",
+     "de": "verraten / betrügen"
+    },
+    {
+     "it": "indovinare",
+     "de": "erraten"
+    },
+    {
+     "it": "osservare",
+     "de": "beobachten"
+    },
+    {
+     "it": "considerare",
+     "de": "betrachten / halten für"
+    },
+    {
+     "it": "realizzare",
+     "de": "verwirklichen"
+    },
+    {
+     "it": "concludere",
+     "de": "abschließen"
+    },
+    {
+     "it": "distinguere",
+     "de": "unterscheiden"
+    },
+    {
+     "it": "rischiare",
+     "de": "riskieren"
+    },
+    {
+     "it": "dedicarsi",
+     "de": "sich widmen"
+    },
+    {
+     "it": "impegnarsi",
+     "de": "sich engagieren"
+    },
+    {
+     "it": "arrendersi",
+     "de": "aufgeben"
+    },
+    {
+     "it": "decidersi",
+     "de": "sich entschließen"
+    },
+    {
+     "it": "assicurarsi",
+     "de": "sich vergewissern"
+    },
+    {
+     "it": "rivolgersi",
+     "de": "sich wenden an"
+    }
+   ]
+  },
+  {
+   "id": "b1.deck_adjectives",
+   "level": "B1",
+   "title": "Häufige Adjektive & Adverbien B1",
+   "emoji": "✨",
+   "words": [
+    {
+     "it": "necessario",
+     "de": "notwendig"
+    },
+    {
+     "it": "impossibile",
+     "de": "unmöglich"
+    },
+    {
+     "it": "utile",
+     "de": "nützlich"
+    },
+    {
+     "it": "inutile",
+     "de": "nutzlos"
+    },
+    {
+     "it": "semplice",
+     "de": "einfach"
+    },
+    {
+     "it": "complicato",
+     "de": "kompliziert"
+    },
+    {
+     "it": "pericoloso",
+     "de": "gefährlich"
+    },
+    {
+     "it": "sicuro",
+     "de": "sicher"
+    },
+    {
+     "it": "comodo",
+     "de": "bequem"
+    },
+    {
+     "it": "scomodo",
+     "de": "unbequem"
+    },
+    {
+     "it": "pratico",
+     "de": "praktisch"
+    },
+    {
+     "it": "attuale",
+     "de": "aktuell"
+    },
+    {
+     "it": "rumoroso",
+     "de": "laut"
+    },
+    {
+     "it": "disponibile",
+     "de": "verfügbar / hilfsbereit"
+    },
+    {
+     "it": "diverso",
+     "de": "verschieden / anders"
+    },
+    {
+     "it": "simile",
+     "de": "ähnlich"
+    },
+    {
+     "it": "uguale",
+     "de": "gleich"
+    },
+    {
+     "it": "frequente",
+     "de": "häufig"
+    },
+    {
+     "it": "recente",
+     "de": "kürzlich / neu"
+    },
+    {
+     "it": "precedente",
+     "de": "vorherig"
+    },
+    {
+     "it": "successivo",
+     "de": "nachfolgend / nächste"
+    },
+    {
+     "it": "principale",
+     "de": "Haupt- / wichtigste"
+    },
+    {
+     "it": "ottimo",
+     "de": "ausgezeichnet"
+    },
+    {
+     "it": "pessimo",
+     "de": "sehr schlecht"
+    },
+    {
+     "it": "ormai",
+     "de": "inzwischen / nunmehr"
+    },
+    {
+     "it": "piuttosto",
+     "de": "eher / lieber"
+    },
+    {
+     "it": "davvero",
+     "de": "wirklich"
+    },
+    {
+     "it": "proprio",
+     "de": "genau / eigen"
+    },
+    {
+     "it": "almeno",
+     "de": "mindestens"
+    },
+    {
+     "it": "soprattutto",
+     "de": "vor allem"
+    },
+    {
+     "it": "apposta",
+     "de": "absichtlich"
+    },
+    {
+     "it": "di nuovo",
+     "de": "wieder"
+    },
+    {
+     "it": "ultimamente",
+     "de": "in letzter Zeit"
+    },
+    {
+     "it": "enorme",
+     "de": "riesig"
+    },
+    {
+     "it": "profondo",
+     "de": "tief"
+    },
+    {
+     "it": "morbido",
+     "de": "weich"
+    },
+    {
+     "it": "duro",
+     "de": "hart"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_society",
+   "level": "B2",
+   "title": "Gesellschaft",
+   "emoji": "🏙️",
+   "words": [
+    {
+     "it": "la disuguaglianza",
+     "de": "die Ungleichheit"
+    },
+    {
+     "it": "la povertà",
+     "de": "die Armut"
+    },
+    {
+     "it": "la ricchezza",
+     "de": "der Reichtum"
+    },
+    {
+     "it": "il ceto medio",
+     "de": "die Mittelschicht"
+    },
+    {
+     "it": "la classe sociale",
+     "de": "die soziale Schicht"
+    },
+    {
+     "it": "l'emarginazione",
+     "de": "die Ausgrenzung"
+    },
+    {
+     "it": "l'integrazione",
+     "de": "die Integration"
+    },
+    {
+     "it": "l'immigrato",
+     "de": "der Einwanderer"
+    },
+    {
+     "it": "l'emigrazione",
+     "de": "die Auswanderung"
+    },
+    {
+     "it": "il pregiudizio",
+     "de": "das Vorurteil"
+    },
+    {
+     "it": "la discriminazione",
+     "de": "die Diskriminierung"
+    },
+    {
+     "it": "il razzismo",
+     "de": "der Rassismus"
+    },
+    {
+     "it": "la parità di genere",
+     "de": "die Gleichberechtigung"
+    },
+    {
+     "it": "la solidarietà",
+     "de": "die Solidarität"
+    },
+    {
+     "it": "il volontariato",
+     "de": "das Ehrenamt"
+    },
+    {
+     "it": "la beneficenza",
+     "de": "die Wohltätigkeit"
+    },
+    {
+     "it": "il senzatetto",
+     "de": "der Obdachlose"
+    },
+    {
+     "it": "la periferia",
+     "de": "der Stadtrand"
+    },
+    {
+     "it": "la convivenza",
+     "de": "das Zusammenleben"
+    },
+    {
+     "it": "la comunità",
+     "de": "die Gemeinschaft"
+    },
+    {
+     "it": "l'invecchiamento",
+     "de": "die Alterung"
+    },
+    {
+     "it": "la natalità",
+     "de": "die Geburtenrate"
+    },
+    {
+     "it": "il benessere",
+     "de": "der Wohlstand"
+    },
+    {
+     "it": "la tolleranza",
+     "de": "die Toleranz"
+    },
+    {
+     "it": "la criminalità",
+     "de": "die Kriminalität"
+    },
+    {
+     "it": "la sicurezza sociale",
+     "de": "die soziale Sicherheit"
+    },
+    {
+     "it": "il divario",
+     "de": "die Kluft"
+    },
+    {
+     "it": "la mentalità",
+     "de": "die Denkweise"
+    },
+    {
+     "it": "le pari opportunità",
+     "de": "die Chancengleichheit"
+    },
+    {
+     "it": "lo stile di vita",
+     "de": "der Lebensstil"
+    },
+    {
+     "it": "la generazione",
+     "de": "die Generation"
+    },
+    {
+     "it": "il disagio sociale",
+     "de": "soziale Not"
+    },
+    {
+     "it": "l'esclusione",
+     "de": "der Ausschluss"
+    },
+    {
+     "it": "emarginato",
+     "de": "ausgegrenzt"
+    },
+    {
+     "it": "benestante",
+     "de": "wohlhabend"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_politics",
+   "level": "B2",
+   "title": "Politik",
+   "emoji": "🏛️",
+   "words": [
+    {
+     "it": "la democrazia",
+     "de": "die Demokratie"
+    },
+    {
+     "it": "la dittatura",
+     "de": "die Diktatur"
+    },
+    {
+     "it": "le elezioni",
+     "de": "die Wahlen"
+    },
+    {
+     "it": "il voto",
+     "de": "die Stimme / die Note"
+    },
+    {
+     "it": "l'elettore",
+     "de": "der Wähler"
+    },
+    {
+     "it": "il candidato",
+     "de": "der Kandidat"
+    },
+    {
+     "it": "lo schieramento",
+     "de": "das politische Lager"
+    },
+    {
+     "it": "il parlamento",
+     "de": "das Parlament"
+    },
+    {
+     "it": "il deputato",
+     "de": "der Abgeordnete"
+    },
+    {
+     "it": "il senato",
+     "de": "der Senat"
+    },
+    {
+     "it": "il ministro",
+     "de": "der Minister"
+    },
+    {
+     "it": "il presidente del consiglio",
+     "de": "der Ministerpräsident"
+    },
+    {
+     "it": "la maggioranza",
+     "de": "die Mehrheit"
+    },
+    {
+     "it": "l'opposizione",
+     "de": "die Opposition"
+    },
+    {
+     "it": "la coalizione",
+     "de": "die Koalition"
+    },
+    {
+     "it": "la sinistra",
+     "de": "die Linke"
+    },
+    {
+     "it": "la destra",
+     "de": "die Rechte"
+    },
+    {
+     "it": "la campagna elettorale",
+     "de": "der Wahlkampf"
+    },
+    {
+     "it": "il sondaggio",
+     "de": "die Umfrage"
+    },
+    {
+     "it": "il referendum",
+     "de": "die Volksabstimmung"
+    },
+    {
+     "it": "la costituzione",
+     "de": "die Verfassung"
+    },
+    {
+     "it": "la riforma",
+     "de": "die Reform"
+    },
+    {
+     "it": "il decreto",
+     "de": "die Verordnung"
+    },
+    {
+     "it": "la manifestazione",
+     "de": "die Demonstration"
+    },
+    {
+     "it": "la corruzione",
+     "de": "die Korruption"
+    },
+    {
+     "it": "la libertà di stampa",
+     "de": "die Pressefreiheit"
+    },
+    {
+     "it": "il diritto di voto",
+     "de": "das Wahlrecht"
+    },
+    {
+     "it": "la sovranità",
+     "de": "die Souveränität"
+    },
+    {
+     "it": "il potere esecutivo",
+     "de": "die Exekutive"
+    },
+    {
+     "it": "eleggere",
+     "de": "wählen (in ein Amt)"
+    },
+    {
+     "it": "votare",
+     "de": "abstimmen"
+    },
+    {
+     "it": "governare",
+     "de": "regieren"
+    },
+    {
+     "it": "dimettersi",
+     "de": "zurücktreten"
+    },
+    {
+     "it": "la crisi di governo",
+     "de": "die Regierungskrise"
+    },
+    {
+     "it": "il programma elettorale",
+     "de": "das Wahlprogramm"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_economy",
+   "level": "B2",
+   "title": "Wirtschaft & Finanzen",
+   "emoji": "💶",
+   "words": [
+    {
+     "it": "l'economia",
+     "de": "die Wirtschaft"
+    },
+    {
+     "it": "la crescita",
+     "de": "das Wachstum"
+    },
+    {
+     "it": "la recessione",
+     "de": "die Rezession"
+    },
+    {
+     "it": "l'inflazione",
+     "de": "die Inflation"
+    },
+    {
+     "it": "il prezzo",
+     "de": "der Preis"
+    },
+    {
+     "it": "il mercato",
+     "de": "der Markt"
+    },
+    {
+     "it": "la svalutazione",
+     "de": "die Abwertung"
+    },
+    {
+     "it": "l'offerta",
+     "de": "das Angebot"
+    },
+    {
+     "it": "il debito",
+     "de": "die Schuld (Geld)"
+    },
+    {
+     "it": "il prestito",
+     "de": "der Kredit / das Darlehen"
+    },
+    {
+     "it": "il mutuo",
+     "de": "die Hypothek"
+    },
+    {
+     "it": "il tasso d'interesse",
+     "de": "der Zinssatz"
+    },
+    {
+     "it": "l'investimento",
+     "de": "die Investition"
+    },
+    {
+     "it": "investire",
+     "de": "investieren"
+    },
+    {
+     "it": "il risparmio",
+     "de": "die Ersparnis"
+    },
+    {
+     "it": "le tasse",
+     "de": "die Steuern"
+    },
+    {
+     "it": "l'imposta",
+     "de": "die Abgabe / die Steuer"
+    },
+    {
+     "it": "il bilancio",
+     "de": "die Bilanz / der Haushalt"
+    },
+    {
+     "it": "il fatturato",
+     "de": "der Umsatz"
+    },
+    {
+     "it": "il profitto",
+     "de": "der Gewinn"
+    },
+    {
+     "it": "la perdita",
+     "de": "der Verlust"
+    },
+    {
+     "it": "la borsa",
+     "de": "die Börse / die Tasche"
+    },
+    {
+     "it": "l'azione",
+     "de": "die Aktie / die Handlung"
+    },
+    {
+     "it": "il conto corrente",
+     "de": "das Girokonto"
+    },
+    {
+     "it": "il bonifico",
+     "de": "die Überweisung"
+    },
+    {
+     "it": "il reddito",
+     "de": "das Einkommen"
+    },
+    {
+     "it": "la spesa pubblica",
+     "de": "die Staatsausgaben"
+    },
+    {
+     "it": "il PIL",
+     "de": "das BIP"
+    },
+    {
+     "it": "l'esportazione",
+     "de": "der Export"
+    },
+    {
+     "it": "l'importazione",
+     "de": "der Import"
+    },
+    {
+     "it": "la concorrenza",
+     "de": "die Konkurrenz"
+    },
+    {
+     "it": "il consumatore",
+     "de": "der Verbraucher"
+    },
+    {
+     "it": "l'impresa",
+     "de": "das Unternehmen"
+    },
+    {
+     "it": "fallire",
+     "de": "scheitern / pleitegehen"
+    },
+    {
+     "it": "il fallimento",
+     "de": "die Pleite / das Scheitern"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_work_law",
+   "level": "B2",
+   "title": "Arbeit & Recht",
+   "emoji": "⚖️",
+   "words": [
+    {
+     "it": "il datore di lavoro",
+     "de": "der Arbeitgeber"
+    },
+    {
+     "it": "il dipendente",
+     "de": "der Angestellte"
+    },
+    {
+     "it": "il sindacato",
+     "de": "die Gewerkschaft"
+    },
+    {
+     "it": "il licenziamento",
+     "de": "die Kündigung"
+    },
+    {
+     "it": "licenziare",
+     "de": "entlassen"
+    },
+    {
+     "it": "la disoccupazione",
+     "de": "die Arbeitslosigkeit"
+    },
+    {
+     "it": "il disoccupato",
+     "de": "der Arbeitslose"
+    },
+    {
+     "it": "la pensione",
+     "de": "die Rente"
+    },
+    {
+     "it": "andare in pensione",
+     "de": "in Rente gehen"
+    },
+    {
+     "it": "il contratto a tempo determinato",
+     "de": "der befristete Vertrag"
+    },
+    {
+     "it": "il precariato",
+     "de": "prekäre Beschäftigung"
+    },
+    {
+     "it": "lo straordinario",
+     "de": "die Überstunden"
+    },
+    {
+     "it": "le ferie",
+     "de": "der Urlaub (Arbeit)"
+    },
+    {
+     "it": "la promozione",
+     "de": "die Beförderung"
+    },
+    {
+     "it": "la carriera",
+     "de": "die Karriere"
+    },
+    {
+     "it": "il tirocinio",
+     "de": "das Praktikum"
+    },
+    {
+     "it": "la formazione",
+     "de": "die Ausbildung"
+    },
+    {
+     "it": "la busta paga",
+     "de": "die Gehaltsabrechnung"
+    },
+    {
+     "it": "il tribunale",
+     "de": "das Gericht"
+    },
+    {
+     "it": "il giudice",
+     "de": "der Richter"
+    },
+    {
+     "it": "la causa",
+     "de": "der Prozess / die Ursache"
+    },
+    {
+     "it": "la sentenza",
+     "de": "das Urteil"
+    },
+    {
+     "it": "l'imputato",
+     "de": "der Angeklagte"
+    },
+    {
+     "it": "il testimone",
+     "de": "der Zeuge"
+    },
+    {
+     "it": "il reato",
+     "de": "die Straftat"
+    },
+    {
+     "it": "la pena",
+     "de": "die Strafe"
+    },
+    {
+     "it": "il diritto",
+     "de": "das Recht"
+    },
+    {
+     "it": "l'obbligo",
+     "de": "die Verpflichtung"
+    },
+    {
+     "it": "la denuncia",
+     "de": "die Anzeige"
+    },
+    {
+     "it": "denunciare",
+     "de": "anzeigen"
+    },
+    {
+     "it": "condannare",
+     "de": "verurteilen"
+    },
+    {
+     "it": "assolvere",
+     "de": "freisprechen"
+    },
+    {
+     "it": "il carcere",
+     "de": "das Gefängnis"
+    },
+    {
+     "it": "la multa",
+     "de": "das Bußgeld"
+    },
+    {
+     "it": "la colpa",
+     "de": "die Schuld"
+    },
+    {
+     "it": "innocente",
+     "de": "unschuldig"
+    },
+    {
+     "it": "colpevole",
+     "de": "schuldig"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_science",
+   "level": "B2",
+   "title": "Wissenschaft & Forschung",
+   "emoji": "🔬",
+   "words": [
+    {
+     "it": "la ricerca",
+     "de": "die Forschung / die Suche"
+    },
+    {
+     "it": "il ricercatore",
+     "de": "der Forscher"
+    },
+    {
+     "it": "lo scienziato",
+     "de": "der Wissenschaftler"
+    },
+    {
+     "it": "la scoperta",
+     "de": "die Entdeckung"
+    },
+    {
+     "it": "scoprire",
+     "de": "entdecken"
+    },
+    {
+     "it": "l'invenzione",
+     "de": "die Erfindung"
+    },
+    {
+     "it": "inventare",
+     "de": "erfinden"
+    },
+    {
+     "it": "l'esperimento",
+     "de": "das Experiment"
+    },
+    {
+     "it": "il laboratorio",
+     "de": "das Labor"
+    },
+    {
+     "it": "l'ipotesi",
+     "de": "die Hypothese"
+    },
+    {
+     "it": "la teoria",
+     "de": "die Theorie"
+    },
+    {
+     "it": "la prova",
+     "de": "der Beweis / die Probe"
+    },
+    {
+     "it": "dimostrare",
+     "de": "beweisen / zeigen"
+    },
+    {
+     "it": "il dato",
+     "de": "die Angabe / das Datum"
+    },
+    {
+     "it": "l'analisi",
+     "de": "die Analyse"
+    },
+    {
+     "it": "lo studio",
+     "de": "die Studie / das Studium"
+    },
+    {
+     "it": "il campione",
+     "de": "die Probe / der Champion"
+    },
+    {
+     "it": "la misura",
+     "de": "das Maß / die Messung"
+    },
+    {
+     "it": "misurare",
+     "de": "messen"
+    },
+    {
+     "it": "il metodo",
+     "de": "die Methode"
+    },
+    {
+     "it": "la fisica",
+     "de": "die Physik"
+    },
+    {
+     "it": "la chimica",
+     "de": "die Chemie"
+    },
+    {
+     "it": "la biologia",
+     "de": "die Biologie"
+    },
+    {
+     "it": "l'astronomia",
+     "de": "die Astronomie"
+    },
+    {
+     "it": "il pianeta",
+     "de": "der Planet"
+    },
+    {
+     "it": "la cellula",
+     "de": "die Zelle"
+    },
+    {
+     "it": "il gene",
+     "de": "das Gen"
+    },
+    {
+     "it": "l'intelligenza artificiale",
+     "de": "die künstliche Intelligenz"
+    },
+    {
+     "it": "la tecnologia",
+     "de": "die Technologie"
+    },
+    {
+     "it": "il brevetto",
+     "de": "das Patent"
+    },
+    {
+     "it": "il progresso",
+     "de": "der Fortschritt"
+    },
+    {
+     "it": "la rivista scientifica",
+     "de": "die Fachzeitschrift"
+    },
+    {
+     "it": "scientifico",
+     "de": "wissenschaftlich"
+    },
+    {
+     "it": "empirico",
+     "de": "empirisch"
+    },
+    {
+     "it": "verificare",
+     "de": "überprüfen"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_environment",
+   "level": "B2",
+   "title": "Umwelt & Klima",
+   "emoji": "🌍",
+   "words": [
+    {
+     "it": "il cambiamento climatico",
+     "de": "der Klimawandel"
+    },
+    {
+     "it": "il riscaldamento globale",
+     "de": "die Erderwärmung"
+    },
+    {
+     "it": "l'effetto serra",
+     "de": "der Treibhauseffekt"
+    },
+    {
+     "it": "le emissioni",
+     "de": "die Emissionen"
+    },
+    {
+     "it": "l'anidride carbonica",
+     "de": "das Kohlendioxid"
+    },
+    {
+     "it": "i combustibili fossili",
+     "de": "fossile Brennstoffe"
+    },
+    {
+     "it": "le energie rinnovabili",
+     "de": "erneuerbare Energien"
+    },
+    {
+     "it": "l'energia solare",
+     "de": "die Sonnenenergie"
+    },
+    {
+     "it": "l'energia eolica",
+     "de": "die Windenergie"
+    },
+    {
+     "it": "il pannello solare",
+     "de": "das Solarmodul"
+    },
+    {
+     "it": "la pala eolica",
+     "de": "das Windrad"
+    },
+    {
+     "it": "la sostenibilità",
+     "de": "die Nachhaltigkeit"
+    },
+    {
+     "it": "sostenibile",
+     "de": "nachhaltig"
+    },
+    {
+     "it": "la siccità",
+     "de": "die Dürre"
+    },
+    {
+     "it": "l'alluvione",
+     "de": "die Überschwemmung"
+    },
+    {
+     "it": "il terremoto",
+     "de": "das Erdbeben"
+    },
+    {
+     "it": "la frana",
+     "de": "der Erdrutsch"
+    },
+    {
+     "it": "l'incendio boschivo",
+     "de": "der Waldbrand"
+    },
+    {
+     "it": "la deforestazione",
+     "de": "die Abholzung"
+    },
+    {
+     "it": "la biodiversità",
+     "de": "die Artenvielfalt"
+    },
+    {
+     "it": "la specie in via di estinzione",
+     "de": "die bedrohte Art"
+    },
+    {
+     "it": "l'ecosistema",
+     "de": "das Ökosystem"
+    },
+    {
+     "it": "il ghiacciaio",
+     "de": "der Gletscher"
+    },
+    {
+     "it": "lo scioglimento",
+     "de": "das Schmelzen"
+    },
+    {
+     "it": "il livello del mare",
+     "de": "der Meeresspiegel"
+    },
+    {
+     "it": "la desertificazione",
+     "de": "die Wüstenbildung"
+    },
+    {
+     "it": "lo smog",
+     "de": "der Smog"
+    },
+    {
+     "it": "le polveri sottili",
+     "de": "der Feinstaub"
+    },
+    {
+     "it": "la discarica",
+     "de": "die Mülldeponie"
+    },
+    {
+     "it": "l'impronta ecologica",
+     "de": "der ökologische Fußabdruck"
+    },
+    {
+     "it": "inquinare",
+     "de": "verschmutzen"
+    },
+    {
+     "it": "ridurre",
+     "de": "verringern"
+    },
+    {
+     "it": "esaurire",
+     "de": "erschöpfen / aufbrauchen"
+    },
+    {
+     "it": "la tutela",
+     "de": "der Schutz"
+    },
+    {
+     "it": "la catastrofe naturale",
+     "de": "die Naturkatastrophe"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_media",
+   "level": "B2",
+   "title": "Medien & Kommunikation",
+   "emoji": "📰",
+   "words": [
+    {
+     "it": "i mezzi di comunicazione",
+     "de": "die Medien"
+    },
+    {
+     "it": "la stampa",
+     "de": "die Presse / der Druck"
+    },
+    {
+     "it": "il quotidiano",
+     "de": "die Tageszeitung"
+    },
+    {
+     "it": "il settimanale",
+     "de": "die Wochenzeitschrift"
+    },
+    {
+     "it": "il giornalista",
+     "de": "der Journalist"
+    },
+    {
+     "it": "la redazione",
+     "de": "die Redaktion"
+    },
+    {
+     "it": "l'articolo",
+     "de": "der Artikel"
+    },
+    {
+     "it": "il titolo",
+     "de": "die Schlagzeile / der Titel"
+    },
+    {
+     "it": "l'intervista",
+     "de": "das Interview"
+    },
+    {
+     "it": "intervistare",
+     "de": "interviewen"
+    },
+    {
+     "it": "il telegiornale",
+     "de": "die Nachrichtensendung"
+    },
+    {
+     "it": "la trasmissione",
+     "de": "die Sendung"
+    },
+    {
+     "it": "trasmettere",
+     "de": "senden / übertragen"
+    },
+    {
+     "it": "in diretta",
+     "de": "live"
+    },
+    {
+     "it": "lo spettatore",
+     "de": "der Zuschauer"
+    },
+    {
+     "it": "il pubblico",
+     "de": "das Publikum"
+    },
+    {
+     "it": "la pubblicità",
+     "de": "die Werbung"
+    },
+    {
+     "it": "la censura",
+     "de": "die Zensur"
+    },
+    {
+     "it": "le notizie false",
+     "de": "die Falschmeldungen"
+    },
+    {
+     "it": "la disinformazione",
+     "de": "die Desinformation"
+    },
+    {
+     "it": "i social network",
+     "de": "die sozialen Netzwerke"
+    },
+    {
+     "it": "il follower",
+     "de": "der Follower"
+    },
+    {
+     "it": "condividere",
+     "de": "teilen"
+    },
+    {
+     "it": "pubblicare",
+     "de": "veröffentlichen"
+    },
+    {
+     "it": "il commento",
+     "de": "der Kommentar"
+    },
+    {
+     "it": "la rete",
+     "de": "das Netz"
+    },
+    {
+     "it": "la privacy",
+     "de": "der Datenschutz"
+    },
+    {
+     "it": "il podcast",
+     "de": "der Podcast"
+    },
+    {
+     "it": "lo scoop",
+     "de": "die Exklusivmeldung"
+    },
+    {
+     "it": "l'opinione pubblica",
+     "de": "die öffentliche Meinung"
+    },
+    {
+     "it": "la cronaca",
+     "de": "die Lokalnachrichten / Chronik"
+    },
+    {
+     "it": "diffondere",
+     "de": "verbreiten"
+    },
+    {
+     "it": "virale",
+     "de": "viral"
+    },
+    {
+     "it": "la tiratura",
+     "de": "die Auflage"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_art_lit",
+   "level": "B2",
+   "title": "Kunst & Literatur",
+   "emoji": "🎭",
+   "words": [
+    {
+     "it": "l'autore",
+     "de": "der Autor"
+    },
+    {
+     "it": "il protagonista",
+     "de": "die Hauptfigur"
+    },
+    {
+     "it": "il personaggio",
+     "de": "die Figur"
+    },
+    {
+     "it": "la trama",
+     "de": "die Handlung"
+    },
+    {
+     "it": "il capitolo",
+     "de": "das Kapitel"
+    },
+    {
+     "it": "il narratore",
+     "de": "der Erzähler"
+    },
+    {
+     "it": "il saggio",
+     "de": "der Essay / der Weise"
+    },
+    {
+     "it": "la raccolta",
+     "de": "die Sammlung"
+    },
+    {
+     "it": "il verso",
+     "de": "der Vers"
+    },
+    {
+     "it": "la rima",
+     "de": "der Reim"
+    },
+    {
+     "it": "il poeta",
+     "de": "der Dichter"
+    },
+    {
+     "it": "la narrativa",
+     "de": "die Belletristik"
+    },
+    {
+     "it": "la casa editrice",
+     "de": "der Verlag"
+    },
+    {
+     "it": "l'editore",
+     "de": "der Verleger"
+    },
+    {
+     "it": "la recensione",
+     "de": "die Rezension"
+    },
+    {
+     "it": "il critico",
+     "de": "der Kritiker"
+    },
+    {
+     "it": "la critica",
+     "de": "die Kritik"
+    },
+    {
+     "it": "il regista",
+     "de": "der Regisseur"
+    },
+    {
+     "it": "la sceneggiatura",
+     "de": "das Drehbuch"
+    },
+    {
+     "it": "l'attore",
+     "de": "der Schauspieler"
+    },
+    {
+     "it": "la scena",
+     "de": "die Szene / die Bühne"
+    },
+    {
+     "it": "il palcoscenico",
+     "de": "die Bühne"
+    },
+    {
+     "it": "la tragedia",
+     "de": "die Tragödie"
+    },
+    {
+     "it": "la commedia",
+     "de": "die Komödie"
+    },
+    {
+     "it": "il pennello",
+     "de": "der Pinsel"
+    },
+    {
+     "it": "la tela",
+     "de": "die Leinwand"
+    },
+    {
+     "it": "il ritratto",
+     "de": "das Porträt"
+    },
+    {
+     "it": "il paesaggio",
+     "de": "die Landschaft"
+    },
+    {
+     "it": "l'opera d'arte",
+     "de": "das Kunstwerk"
+    },
+    {
+     "it": "la corrente artistica",
+     "de": "die Kunstrichtung"
+    },
+    {
+     "it": "il Rinascimento",
+     "de": "die Renaissance"
+    },
+    {
+     "it": "il Barocco",
+     "de": "der Barock"
+    },
+    {
+     "it": "l'ispirazione",
+     "de": "die Inspiration"
+    },
+    {
+     "it": "ispirarsi a",
+     "de": "sich inspirieren lassen von"
+    },
+    {
+     "it": "interpretare",
+     "de": "deuten / spielen (Rolle)"
+    },
+    {
+     "it": "la metafora",
+     "de": "die Metapher"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_psychology",
+   "level": "B2",
+   "title": "Psychologie & Gefühle",
+   "emoji": "🧠",
+   "words": [
+    {
+     "it": "l'ansia",
+     "de": "die Angst / die Unruhe"
+    },
+    {
+     "it": "lo stress",
+     "de": "der Stress"
+    },
+    {
+     "it": "la depressione",
+     "de": "die Depression"
+    },
+    {
+     "it": "l'autostima",
+     "de": "das Selbstwertgefühl"
+    },
+    {
+     "it": "la fiducia",
+     "de": "das Vertrauen"
+    },
+    {
+     "it": "la gelosia",
+     "de": "die Eifersucht"
+    },
+    {
+     "it": "l'invidia",
+     "de": "der Neid"
+    },
+    {
+     "it": "la vergogna",
+     "de": "die Scham"
+    },
+    {
+     "it": "il senso di colpa",
+     "de": "das Schuldgefühl"
+    },
+    {
+     "it": "la delusione",
+     "de": "die Enttäuschung"
+    },
+    {
+     "it": "la nostalgia",
+     "de": "die Sehnsucht / das Heimweh"
+    },
+    {
+     "it": "la rabbia",
+     "de": "die Wut"
+    },
+    {
+     "it": "la frustrazione",
+     "de": "die Frustration"
+    },
+    {
+     "it": "la gratitudine",
+     "de": "die Dankbarkeit"
+    },
+    {
+     "it": "la compassione",
+     "de": "das Mitgefühl"
+    },
+    {
+     "it": "l'empatia",
+     "de": "die Empathie"
+    },
+    {
+     "it": "la solitudine",
+     "de": "die Einsamkeit"
+    },
+    {
+     "it": "il sollievo",
+     "de": "die Erleichterung"
+    },
+    {
+     "it": "l'entusiasmo",
+     "de": "die Begeisterung"
+    },
+    {
+     "it": "la paura",
+     "de": "die Angst"
+    },
+    {
+     "it": "il comportamento",
+     "de": "das Verhalten"
+    },
+    {
+     "it": "la personalità",
+     "de": "die Persönlichkeit"
+    },
+    {
+     "it": "l'inconscio",
+     "de": "das Unbewusste"
+    },
+    {
+     "it": "la motivazione",
+     "de": "die Motivation"
+    },
+    {
+     "it": "deluso",
+     "de": "enttäuscht"
+    },
+    {
+     "it": "geloso",
+     "de": "eifersüchtig"
+    },
+    {
+     "it": "invidioso",
+     "de": "neidisch"
+    },
+    {
+     "it": "ansioso",
+     "de": "ängstlich"
+    },
+    {
+     "it": "sensibile",
+     "de": "empfindlich / sensibel"
+    },
+    {
+     "it": "permaloso",
+     "de": "leicht beleidigt"
+    },
+    {
+     "it": "testardo",
+     "de": "stur"
+    },
+    {
+     "it": "insicuro",
+     "de": "unsicher"
+    },
+    {
+     "it": "commuoversi",
+     "de": "gerührt sein"
+    },
+    {
+     "it": "sfogarsi",
+     "de": "sich Luft machen"
+    },
+    {
+     "it": "arrabbiarsi",
+     "de": "wütend werden"
+    },
+    {
+     "it": "vergognarsi",
+     "de": "sich schämen"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_health",
+   "level": "B2",
+   "title": "Gesundheit & Medizin",
+   "emoji": "🩺",
+   "words": [
+    {
+     "it": "la malattia",
+     "de": "die Krankheit"
+    },
+    {
+     "it": "il sintomo",
+     "de": "das Symptom"
+    },
+    {
+     "it": "la diagnosi",
+     "de": "die Diagnose"
+    },
+    {
+     "it": "la terapia",
+     "de": "die Therapie"
+    },
+    {
+     "it": "la cura",
+     "de": "die Behandlung / die Pflege"
+    },
+    {
+     "it": "guarire",
+     "de": "heilen / genesen"
+    },
+    {
+     "it": "il farmaco",
+     "de": "das Medikament"
+    },
+    {
+     "it": "la ricetta medica",
+     "de": "das Rezept (Arzt)"
+    },
+    {
+     "it": "l'effetto collaterale",
+     "de": "die Nebenwirkung"
+    },
+    {
+     "it": "il vaccino",
+     "de": "der Impfstoff"
+    },
+    {
+     "it": "vaccinare",
+     "de": "impfen"
+    },
+    {
+     "it": "l'infezione",
+     "de": "die Infektion"
+    },
+    {
+     "it": "il virus",
+     "de": "das Virus"
+    },
+    {
+     "it": "l'epidemia",
+     "de": "die Epidemie"
+    },
+    {
+     "it": "il contagio",
+     "de": "die Ansteckung"
+    },
+    {
+     "it": "contagioso",
+     "de": "ansteckend"
+    },
+    {
+     "it": "il pronto soccorso",
+     "de": "die Notaufnahme"
+    },
+    {
+     "it": "il ricovero",
+     "de": "die Einweisung (Klinik)"
+    },
+    {
+     "it": "l'intervento chirurgico",
+     "de": "die Operation"
+    },
+    {
+     "it": "il chirurgo",
+     "de": "der Chirurg"
+    },
+    {
+     "it": "l'anestesia",
+     "de": "die Narkose"
+    },
+    {
+     "it": "la ferita",
+     "de": "die Wunde"
+    },
+    {
+     "it": "la frattura",
+     "de": "der Bruch"
+    },
+    {
+     "it": "l'allergia",
+     "de": "die Allergie"
+    },
+    {
+     "it": "la pressione sanguigna",
+     "de": "der Blutdruck"
+    },
+    {
+     "it": "il cuore",
+     "de": "das Herz"
+    },
+    {
+     "it": "i polmoni",
+     "de": "die Lunge"
+    },
+    {
+     "it": "il cancro",
+     "de": "der Krebs"
+    },
+    {
+     "it": "il diabete",
+     "de": "der Diabetes"
+    },
+    {
+     "it": "la prevenzione",
+     "de": "die Vorbeugung"
+    },
+    {
+     "it": "il servizio sanitario",
+     "de": "das Gesundheitswesen"
+    },
+    {
+     "it": "l'assicurazione sanitaria",
+     "de": "die Krankenversicherung"
+    },
+    {
+     "it": "cronico",
+     "de": "chronisch"
+    },
+    {
+     "it": "la riabilitazione",
+     "de": "die Reha"
+    },
+    {
+     "it": "soffrire di",
+     "de": "leiden an"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_argument",
+   "level": "B2",
+   "title": "Argumentieren",
+   "emoji": "💬",
+   "words": [
+    {
+     "it": "l'argomento",
+     "de": "das Argument / das Thema"
+    },
+    {
+     "it": "la tesi",
+     "de": "die These"
+    },
+    {
+     "it": "l'affermazione",
+     "de": "die Behauptung"
+    },
+    {
+     "it": "affermare",
+     "de": "behaupten"
+    },
+    {
+     "it": "sostenere",
+     "de": "vertreten / unterstützen"
+    },
+    {
+     "it": "la posizione",
+     "de": "der Standpunkt"
+    },
+    {
+     "it": "il punto di vista",
+     "de": "die Sichtweise"
+    },
+    {
+     "it": "il vantaggio",
+     "de": "der Vorteil"
+    },
+    {
+     "it": "lo svantaggio",
+     "de": "der Nachteil"
+    },
+    {
+     "it": "il pro e il contro",
+     "de": "das Für und Wider"
+    },
+    {
+     "it": "la conseguenza",
+     "de": "die Folge"
+    },
+    {
+     "it": "la causa principale",
+     "de": "die Hauptursache"
+    },
+    {
+     "it": "l'obiezione",
+     "de": "der Einwand"
+    },
+    {
+     "it": "obiettare",
+     "de": "einwenden"
+    },
+    {
+     "it": "la critica costruttiva",
+     "de": "die konstruktive Kritik"
+    },
+    {
+     "it": "il confronto",
+     "de": "der Vergleich / die Auseinandersetzung"
+    },
+    {
+     "it": "confrontare",
+     "de": "vergleichen"
+    },
+    {
+     "it": "il dibattito",
+     "de": "die Debatte"
+    },
+    {
+     "it": "discutere",
+     "de": "diskutieren"
+    },
+    {
+     "it": "convincere",
+     "de": "überzeugen"
+    },
+    {
+     "it": "persuadere",
+     "de": "überreden"
+    },
+    {
+     "it": "ribadire",
+     "de": "bekräftigen"
+    },
+    {
+     "it": "contraddire",
+     "de": "widersprechen"
+    },
+    {
+     "it": "la contraddizione",
+     "de": "der Widerspruch"
+    },
+    {
+     "it": "concordare",
+     "de": "übereinstimmen"
+    },
+    {
+     "it": "il consenso",
+     "de": "der Konsens / die Zustimmung"
+    },
+    {
+     "it": "il disaccordo",
+     "de": "die Uneinigkeit"
+    },
+    {
+     "it": "l'esempio",
+     "de": "das Beispiel"
+    },
+    {
+     "it": "la premessa",
+     "de": "die Voraussetzung"
+    },
+    {
+     "it": "la conclusione",
+     "de": "die Schlussfolgerung"
+    },
+    {
+     "it": "dedurre",
+     "de": "folgern"
+    },
+    {
+     "it": "giustificare",
+     "de": "rechtfertigen"
+    },
+    {
+     "it": "sottolineare",
+     "de": "betonen"
+    },
+    {
+     "it": "mettere in dubbio",
+     "de": "infrage stellen"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_verbs",
+   "level": "B2",
+   "title": "Präzise Verben",
+   "emoji": "🎯",
+   "words": [
+    {
+     "it": "affrontare",
+     "de": "sich stellen / angehen"
+    },
+    {
+     "it": "raggiungere",
+     "de": "erreichen"
+    },
+    {
+     "it": "mantenere",
+     "de": "aufrechterhalten / halten"
+    },
+    {
+     "it": "sviluppare",
+     "de": "entwickeln"
+    },
+    {
+     "it": "migliorare",
+     "de": "verbessern"
+    },
+    {
+     "it": "peggiorare",
+     "de": "verschlechtern"
+    },
+    {
+     "it": "aumentare",
+     "de": "zunehmen / erhöhen"
+    },
+    {
+     "it": "diminuire",
+     "de": "abnehmen / sinken"
+    },
+    {
+     "it": "coinvolgere",
+     "de": "einbeziehen"
+    },
+    {
+     "it": "garantire",
+     "de": "garantieren"
+    },
+    {
+     "it": "favorire",
+     "de": "begünstigen"
+    },
+    {
+     "it": "impedire",
+     "de": "verhindern"
+    },
+    {
+     "it": "consentire",
+     "de": "ermöglichen / erlauben"
+    },
+    {
+     "it": "richiedere",
+     "de": "erfordern / anfordern"
+    },
+    {
+     "it": "rinunciare",
+     "de": "verzichten"
+    },
+    {
+     "it": "rimandare",
+     "de": "verschieben"
+    },
+    {
+     "it": "sostituire",
+     "de": "ersetzen"
+    },
+    {
+     "it": "trascurare",
+     "de": "vernachlässigen"
+    },
+    {
+     "it": "superare",
+     "de": "überwinden / übertreffen"
+    },
+    {
+     "it": "ammettere",
+     "de": "zugeben"
+    },
+    {
+     "it": "negare",
+     "de": "leugnen"
+    },
+    {
+     "it": "rifiutare",
+     "de": "ablehnen"
+    },
+    {
+     "it": "attribuire",
+     "de": "zuschreiben"
+    },
+    {
+     "it": "comportare",
+     "de": "mit sich bringen"
+    },
+    {
+     "it": "determinare",
+     "de": "bestimmen"
+    },
+    {
+     "it": "influenzare",
+     "de": "beeinflussen"
+    },
+    {
+     "it": "valutare",
+     "de": "bewerten / abwägen"
+    },
+    {
+     "it": "prevedere",
+     "de": "vorhersehen / vorsehen"
+    },
+    {
+     "it": "stabilire",
+     "de": "festlegen"
+    },
+    {
+     "it": "svolgere",
+     "de": "ausführen / durchführen"
+    },
+    {
+     "it": "intraprendere",
+     "de": "unternehmen"
+    },
+    {
+     "it": "rivelare",
+     "de": "enthüllen"
+    },
+    {
+     "it": "nascondere",
+     "de": "verstecken / verbergen"
+    },
+    {
+     "it": "evidenziare",
+     "de": "hervorheben"
+    },
+    {
+     "it": "adattarsi",
+     "de": "sich anpassen"
+    },
+    {
+     "it": "occuparsi di",
+     "de": "sich kümmern um"
+    }
+   ]
+  },
+  {
+   "id": "b2.deck_adjectives",
+   "level": "B2",
+   "title": "Adjektive für Nuancen",
+   "emoji": "🎨",
+   "words": [
+    {
+     "it": "notevole",
+     "de": "beachtlich"
+    },
+    {
+     "it": "evidente",
+     "de": "offensichtlich"
+    },
+    {
+     "it": "ambiguo",
+     "de": "zweideutig"
+    },
+    {
+     "it": "complesso",
+     "de": "komplex"
+    },
+    {
+     "it": "efficace",
+     "de": "wirksam"
+    },
+    {
+     "it": "efficiente",
+     "de": "effizient"
+    },
+    {
+     "it": "attendibile",
+     "de": "glaubwürdig / zuverlässig"
+    },
+    {
+     "it": "discutibile",
+     "de": "fragwürdig"
+    },
+    {
+     "it": "inevitabile",
+     "de": "unvermeidlich"
+    },
+    {
+     "it": "indispensabile",
+     "de": "unverzichtbar"
+    },
+    {
+     "it": "superfluo",
+     "de": "überflüssig"
+    },
+    {
+     "it": "adeguato",
+     "de": "angemessen"
+    },
+    {
+     "it": "esagerato",
+     "de": "übertrieben"
+    },
+    {
+     "it": "moderato",
+     "de": "gemäßigt"
+    },
+    {
+     "it": "radicale",
+     "de": "radikal"
+    },
+    {
+     "it": "coerente",
+     "de": "schlüssig / konsequent"
+    },
+    {
+     "it": "incoerente",
+     "de": "widersprüchlich"
+    },
+    {
+     "it": "oggettivo",
+     "de": "objektiv"
+    },
+    {
+     "it": "soggettivo",
+     "de": "subjektiv"
+    },
+    {
+     "it": "rilevante",
+     "de": "relevant"
+    },
+    {
+     "it": "trascurabile",
+     "de": "vernachlässigbar"
+    },
+    {
+     "it": "imprevisto",
+     "de": "unvorhergesehen"
+    },
+    {
+     "it": "graduale",
+     "de": "allmählich"
+    },
+    {
+     "it": "improvviso",
+     "de": "plötzlich"
+    },
+    {
+     "it": "assurdo",
+     "de": "absurd"
+    },
+    {
+     "it": "precario",
+     "de": "prekär / unsicher"
+    },
+    {
+     "it": "sottile",
+     "de": "dünn / subtil"
+    },
+    {
+     "it": "vago",
+     "de": "vage"
+    },
+    {
+     "it": "esplicito",
+     "de": "ausdrücklich"
+    },
+    {
+     "it": "implicito",
+     "de": "unausgesprochen"
+    },
+    {
+     "it": "diffuso",
+     "de": "verbreitet"
+    },
+    {
+     "it": "raro",
+     "de": "selten"
+    },
+    {
+     "it": "fondamentale",
+     "de": "grundlegend"
+    },
+    {
+     "it": "marginale",
+     "de": "nebensächlich"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_abstract",
+   "level": "C1",
+   "title": "Abstrakte Begriffe",
+   "emoji": "💭",
+   "words": [
+    {
+     "it": "la consapevolezza",
+     "de": "das Bewusstsein"
+    },
+    {
+     "it": "la percezione",
+     "de": "die Wahrnehmung"
+    },
+    {
+     "it": "la coscienza",
+     "de": "das Gewissen / Bewusstsein"
+    },
+    {
+     "it": "l'identità",
+     "de": "die Identität"
+    },
+    {
+     "it": "l'essenza",
+     "de": "das Wesen"
+    },
+    {
+     "it": "la sostanza",
+     "de": "die Substanz / der Kern"
+    },
+    {
+     "it": "l'apparenza",
+     "de": "der Schein"
+    },
+    {
+     "it": "la contingenza",
+     "de": "die Zufälligkeit / Lage"
+    },
+    {
+     "it": "la necessità",
+     "de": "die Notwendigkeit"
+    },
+    {
+     "it": "la responsabilità",
+     "de": "die Verantwortung"
+    },
+    {
+     "it": "l'autonomia",
+     "de": "die Selbstständigkeit"
+    },
+    {
+     "it": "la dignità",
+     "de": "die Würde"
+    },
+    {
+     "it": "l'integrità",
+     "de": "die Integrität"
+    },
+    {
+     "it": "l'ambiguità",
+     "de": "die Mehrdeutigkeit"
+    },
+    {
+     "it": "la complessità",
+     "de": "die Komplexität"
+    },
+    {
+     "it": "la coerenza",
+     "de": "die Folgerichtigkeit"
+    },
+    {
+     "it": "la legittimità",
+     "de": "die Rechtmäßigkeit"
+    },
+    {
+     "it": "l'equità",
+     "de": "die Gerechtigkeit / Fairness"
+    },
+    {
+     "it": "il paradosso",
+     "de": "das Paradoxon"
+    },
+    {
+     "it": "il presupposto",
+     "de": "die Voraussetzung / Annahme"
+    },
+    {
+     "it": "il fondamento",
+     "de": "die Grundlage"
+    },
+    {
+     "it": "il criterio",
+     "de": "das Kriterium"
+    },
+    {
+     "it": "la prospettiva",
+     "de": "die Perspektive"
+    },
+    {
+     "it": "il pregio",
+     "de": "der Vorzug"
+    },
+    {
+     "it": "il difetto",
+     "de": "der Mangel / Fehler"
+    },
+    {
+     "it": "la tendenza",
+     "de": "die Tendenz"
+    },
+    {
+     "it": "il fenomeno",
+     "de": "das Phänomen"
+    },
+    {
+     "it": "l'impatto",
+     "de": "die Auswirkung"
+    },
+    {
+     "it": "la sfumatura",
+     "de": "die Nuance"
+    },
+    {
+     "it": "il nesso",
+     "de": "der Zusammenhang"
+    },
+    {
+     "it": "la vulnerabilità",
+     "de": "die Verletzlichkeit"
+    },
+    {
+     "it": "l'incertezza",
+     "de": "die Ungewissheit"
+    },
+    {
+     "it": "la transizione",
+     "de": "der Übergang"
+    },
+    {
+     "it": "l'utopia",
+     "de": "die Utopie"
+    },
+    {
+     "it": "la rassegnazione",
+     "de": "die Resignation"
+    },
+    {
+     "it": "l'ideologia",
+     "de": "die Ideologie"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_verbs_formal",
+   "level": "C1",
+   "title": "Gehobene Verben",
+   "emoji": "🎩",
+   "words": [
+    {
+     "it": "avvalersi di",
+     "de": "sich bedienen"
+    },
+    {
+     "it": "attenersi a",
+     "de": "sich halten an"
+    },
+    {
+     "it": "esimersi da",
+     "de": "sich entziehen"
+    },
+    {
+     "it": "astenersi da",
+     "de": "sich enthalten"
+    },
+    {
+     "it": "adempiere",
+     "de": "erfüllen (Pflicht)"
+    },
+    {
+     "it": "avvalorare",
+     "de": "untermauern"
+    },
+    {
+     "it": "confutare",
+     "de": "widerlegen"
+    },
+    {
+     "it": "corroborare",
+     "de": "bestätigen / stützen"
+    },
+    {
+     "it": "delineare",
+     "de": "umreißen / skizzieren"
+    },
+    {
+     "it": "scaturire",
+     "de": "entspringen / herrühren"
+    },
+    {
+     "it": "esulare da",
+     "de": "hinausgehen über"
+    },
+    {
+     "it": "prescindere da",
+     "de": "absehen von"
+    },
+    {
+     "it": "ovviare a",
+     "de": "abhelfen"
+    },
+    {
+     "it": "eludere",
+     "de": "umgehen / ausweichen"
+    },
+    {
+     "it": "esortare",
+     "de": "ermahnen / auffordern"
+    },
+    {
+     "it": "paventare",
+     "de": "befürchten"
+    },
+    {
+     "it": "auspicare",
+     "de": "erhoffen / wünschen"
+    },
+    {
+     "it": "ravvisare",
+     "de": "erkennen / feststellen"
+    },
+    {
+     "it": "ponderare",
+     "de": "abwägen"
+    },
+    {
+     "it": "sancire",
+     "de": "festschreiben"
+    },
+    {
+     "it": "vanificare",
+     "de": "zunichtemachen"
+    },
+    {
+     "it": "inficiare",
+     "de": "beeinträchtigen / entkräften"
+    },
+    {
+     "it": "perseguire",
+     "de": "verfolgen (Ziel)"
+    },
+    {
+     "it": "conseguire",
+     "de": "erlangen / erzielen"
+    },
+    {
+     "it": "desumere",
+     "de": "entnehmen / schließen"
+    },
+    {
+     "it": "insorgere",
+     "de": "auftreten / sich erheben"
+    },
+    {
+     "it": "incombere",
+     "de": "bevorstehen / drohen"
+    },
+    {
+     "it": "annoverare",
+     "de": "zählen zu"
+    },
+    {
+     "it": "elargire",
+     "de": "großzügig gewähren"
+    },
+    {
+     "it": "espletare",
+     "de": "erledigen / abwickeln"
+    },
+    {
+     "it": "cimentarsi",
+     "de": "sich versuchen"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_slang",
+   "level": "C1",
+   "title": "Umgangssprache & Slang",
+   "emoji": "😎",
+   "words": [
+    {
+     "it": "figo",
+     "de": "cool (ugs.)"
+    },
+    {
+     "it": "sfigato",
+     "de": "Pechvogel / uncool (ugs.)"
+    },
+    {
+     "it": "il casino",
+     "de": "das Chaos (ugs.)"
+    },
+    {
+     "it": "casinista",
+     "de": "chaotisch (ugs.)"
+    },
+    {
+     "it": "rompere le scatole",
+     "de": "nerven (ugs.)"
+    },
+    {
+     "it": "il rompiscatole",
+     "de": "die Nervensäge (ugs.)"
+    },
+    {
+     "it": "sclerare",
+     "de": "ausrasten (ugs.)"
+    },
+    {
+     "it": "fregare",
+     "de": "übers Ohr hauen (ugs.)"
+    },
+    {
+     "it": "sgamare",
+     "de": "ertappen (ugs.)"
+    },
+    {
+     "it": "sbronzarsi",
+     "de": "sich besaufen (ugs.)"
+    },
+    {
+     "it": "la sbronza",
+     "de": "der Rausch (ugs.)"
+    },
+    {
+     "it": "la tipa",
+     "de": "die Tussi / Frau (ugs.)"
+    },
+    {
+     "it": "lo sfizio",
+     "de": "die Lust / Laune (ugs.)"
+    },
+    {
+     "it": "sfizioso",
+     "de": "lecker / reizvoll (ugs.)"
+    },
+    {
+     "it": "il macello",
+     "de": "das Durcheinander (ugs.)"
+    },
+    {
+     "it": "gasato",
+     "de": "aufgedreht (ugs.)"
+    },
+    {
+     "it": "sballato",
+     "de": "verrückt / bekifft (ugs.)"
+    },
+    {
+     "it": "cuccare",
+     "de": "jemanden abschleppen (ugs.)"
+    },
+    {
+     "it": "il secchione",
+     "de": "der Streber (ugs.)"
+    },
+    {
+     "it": "la figuraccia",
+     "de": "die Blamage (ugs.)"
+    },
+    {
+     "it": "spaccare",
+     "de": "großartig sein (ugs.)"
+    },
+    {
+     "it": "il tizio",
+     "de": "der Typ / Kerl (ugs.)"
+    },
+    {
+     "it": "che figata!",
+     "de": "wie geil! (ugs.)"
+    },
+    {
+     "it": "che palle!",
+     "de": "wie öde! (ugs.)"
+    },
+    {
+     "it": "sbattersi",
+     "de": "sich abrackern (ugs.)"
+    },
+    {
+     "it": "fare schifo",
+     "de": "ätzend sein (ugs.)"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_idioms",
+   "level": "C1",
+   "title": "Redewendungen",
+   "emoji": "🗝️",
+   "words": [
+    {
+     "it": "avere la puzza sotto il naso",
+     "de": "hochnäsig sein"
+    },
+    {
+     "it": "prendere due piccioni con una fava",
+     "de": "zwei Fliegen mit einer Klappe"
+    },
+    {
+     "it": "non avere peli sulla lingua",
+     "de": "kein Blatt vor den Mund nehmen"
+    },
+    {
+     "it": "tagliare la corda",
+     "de": "abhauen"
+    },
+    {
+     "it": "essere in gamba",
+     "de": "tüchtig sein"
+    },
+    {
+     "it": "fare orecchie da mercante",
+     "de": "sich taub stellen"
+    },
+    {
+     "it": "avere un diavolo per capello",
+     "de": "fuchsteufelswild sein"
+    },
+    {
+     "it": "cadere dalle nuvole",
+     "de": "aus allen Wolken fallen"
+    },
+    {
+     "it": "mettere il carro davanti ai buoi",
+     "de": "das Pferd von hinten aufzäumen"
+    },
+    {
+     "it": "cercare il pelo nell'uovo",
+     "de": "Haare spalten"
+    },
+    {
+     "it": "essere al settimo cielo",
+     "de": "im siebten Himmel sein"
+    },
+    {
+     "it": "non è farina del tuo sacco",
+     "de": "nicht auf deinem Mist gewachsen"
+    },
+    {
+     "it": "acqua in bocca!",
+     "de": "nichts verraten!"
+    },
+    {
+     "it": "avere le spalle larghe",
+     "de": "viel aushalten können"
+    },
+    {
+     "it": "fare il passo più lungo della gamba",
+     "de": "sich übernehmen"
+    },
+    {
+     "it": "gettare la spugna",
+     "de": "das Handtuch werfen"
+    },
+    {
+     "it": "rompere il ghiaccio",
+     "de": "das Eis brechen"
+    },
+    {
+     "it": "stare con le mani in mano",
+     "de": "Däumchen drehen"
+    },
+    {
+     "it": "toccare ferro",
+     "de": "auf Holz klopfen"
+    },
+    {
+     "it": "essere una buona forchetta",
+     "de": "gern und viel essen"
+    },
+    {
+     "it": "andare a gonfie vele",
+     "de": "bestens laufen"
+    },
+    {
+     "it": "avere la testa fra le nuvole",
+     "de": "zerstreut sein"
+    },
+    {
+     "it": "dormire sugli allori",
+     "de": "sich auf Lorbeeren ausruhen"
+    },
+    {
+     "it": "piove sul bagnato",
+     "de": "ein Unglück kommt selten allein"
+    },
+    {
+     "it": "prendere lucciole per lanterne",
+     "de": "etwas völlig verwechseln"
+    },
+    {
+     "it": "fare di tutta l'erba un fascio",
+     "de": "alles über einen Kamm scheren"
+    },
+    {
+     "it": "essere come il cacio sui maccheroni",
+     "de": "wie gerufen kommen"
+    },
+    {
+     "it": "menare il can per l'aia",
+     "de": "um den heißen Brei reden"
+    },
+    {
+     "it": "avere il coltello dalla parte del manico",
+     "de": "am längeren Hebel sitzen"
+    },
+    {
+     "it": "salvare capra e cavoli",
+     "de": "es allen recht machen"
+    },
+    {
+     "it": "chi dorme non piglia pesci",
+     "de": "wer rastet, der rostet"
+    },
+    {
+     "it": "non tutte le ciambelle riescono col buco",
+     "de": "nicht alles gelingt"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_legal_admin",
+   "level": "C1",
+   "title": "Juristisch & Verwaltung",
+   "emoji": "📜",
+   "words": [
+    {
+     "it": "il ricorso",
+     "de": "der Einspruch / die Berufung"
+    },
+    {
+     "it": "presentare ricorso",
+     "de": "Einspruch einlegen"
+    },
+    {
+     "it": "la normativa",
+     "de": "die Vorschriften"
+    },
+    {
+     "it": "il regolamento",
+     "de": "die Verordnung / Ordnung"
+    },
+    {
+     "it": "la delibera",
+     "de": "der Beschluss"
+    },
+    {
+     "it": "il comma",
+     "de": "der Absatz"
+    },
+    {
+     "it": "l'articolo di legge",
+     "de": "der Gesetzesartikel"
+    },
+    {
+     "it": "la giurisprudenza",
+     "de": "die Rechtsprechung"
+    },
+    {
+     "it": "il codice civile",
+     "de": "das Bürgerliche Gesetzbuch"
+    },
+    {
+     "it": "il codice penale",
+     "de": "das Strafgesetzbuch"
+    },
+    {
+     "it": "la querela",
+     "de": "die Strafanzeige"
+    },
+    {
+     "it": "il risarcimento",
+     "de": "der Schadensersatz"
+    },
+    {
+     "it": "la sanzione",
+     "de": "die Sanktion"
+    },
+    {
+     "it": "la proroga",
+     "de": "die Verlängerung (Frist)"
+    },
+    {
+     "it": "il termine perentorio",
+     "de": "die Ausschlussfrist"
+    },
+    {
+     "it": "l'autocertificazione",
+     "de": "die Eigenerklärung"
+    },
+    {
+     "it": "la marca da bollo",
+     "de": "die Stempelmarke"
+    },
+    {
+     "it": "la residenza",
+     "de": "der Wohnsitz"
+    },
+    {
+     "it": "l'anagrafe",
+     "de": "das Einwohnermeldeamt"
+    },
+    {
+     "it": "il codice fiscale",
+     "de": "die Steuernummer"
+    },
+    {
+     "it": "la questura",
+     "de": "das Polizeipräsidium"
+    },
+    {
+     "it": "il permesso di soggiorno",
+     "de": "die Aufenthaltsgenehmigung"
+    },
+    {
+     "it": "la burocrazia",
+     "de": "die Bürokratie"
+    },
+    {
+     "it": "il funzionario",
+     "de": "der Beamte"
+    },
+    {
+     "it": "l'ente pubblico",
+     "de": "die öffentliche Einrichtung"
+    },
+    {
+     "it": "il notaio",
+     "de": "der Notar"
+    },
+    {
+     "it": "il testamento",
+     "de": "das Testament"
+    },
+    {
+     "it": "l'eredità",
+     "de": "das Erbe"
+    },
+    {
+     "it": "la procura",
+     "de": "die Vollmacht / Staatsanwaltschaft"
+    },
+    {
+     "it": "il diritto d'autore",
+     "de": "das Urheberrecht"
+    },
+    {
+     "it": "abrogare",
+     "de": "aufheben (Gesetz)"
+    },
+    {
+     "it": "emanare",
+     "de": "erlassen"
+    },
+    {
+     "it": "vigente",
+     "de": "geltend"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_economy2",
+   "level": "C1",
+   "title": "Wirtschaft II",
+   "emoji": "📈",
+   "words": [
+    {
+     "it": "il disavanzo",
+     "de": "das Defizit"
+    },
+    {
+     "it": "l'avanzo",
+     "de": "der Überschuss"
+    },
+    {
+     "it": "il debito pubblico",
+     "de": "die Staatsverschuldung"
+    },
+    {
+     "it": "lo spread",
+     "de": "der Zinsaufschlag"
+    },
+    {
+     "it": "il rendimento",
+     "de": "die Rendite / Leistung"
+    },
+    {
+     "it": "il dividendo",
+     "de": "die Dividende"
+    },
+    {
+     "it": "l'azionista",
+     "de": "der Aktionär"
+    },
+    {
+     "it": "il patrimonio",
+     "de": "das Vermögen"
+    },
+    {
+     "it": "la liquidità",
+     "de": "die Liquidität"
+    },
+    {
+     "it": "il capitale",
+     "de": "das Kapital"
+    },
+    {
+     "it": "la fusione",
+     "de": "die Fusion"
+    },
+    {
+     "it": "l'acquisizione",
+     "de": "die Übernahme"
+    },
+    {
+     "it": "la privatizzazione",
+     "de": "die Privatisierung"
+    },
+    {
+     "it": "la delocalizzazione",
+     "de": "die Produktionsverlagerung"
+    },
+    {
+     "it": "la filiera",
+     "de": "die Lieferkette"
+    },
+    {
+     "it": "il monopolio",
+     "de": "das Monopol"
+    },
+    {
+     "it": "l'evasione fiscale",
+     "de": "die Steuerhinterziehung"
+    },
+    {
+     "it": "il cuneo fiscale",
+     "de": "die Steuer- und Abgabenlast"
+    },
+    {
+     "it": "la congiuntura",
+     "de": "die Konjunktur"
+    },
+    {
+     "it": "la stagnazione",
+     "de": "die Stagnation"
+    },
+    {
+     "it": "la ripresa",
+     "de": "der Aufschwung"
+    },
+    {
+     "it": "il tasso di cambio",
+     "de": "der Wechselkurs"
+    },
+    {
+     "it": "la valuta",
+     "de": "die Währung"
+    },
+    {
+     "it": "il potere d'acquisto",
+     "de": "die Kaufkraft"
+    },
+    {
+     "it": "il rincaro",
+     "de": "die Preiserhöhung"
+    },
+    {
+     "it": "la speculazione",
+     "de": "die Spekulation"
+    },
+    {
+     "it": "l'indebitamento",
+     "de": "die Verschuldung"
+    },
+    {
+     "it": "la redditività",
+     "de": "die Rentabilität"
+    },
+    {
+     "it": "l'ammortamento",
+     "de": "die Abschreibung"
+    },
+    {
+     "it": "il bilancio consuntivo",
+     "de": "der Jahresabschluss"
+    },
+    {
+     "it": "la start-up",
+     "de": "das Start-up"
+    },
+    {
+     "it": "il libero mercato",
+     "de": "der freie Markt"
+    },
+    {
+     "it": "quotato in borsa",
+     "de": "börsennotiert"
+    }
+   ]
+  },
+  {
+   "id": "c1.deck_connectors",
+   "level": "C1",
+   "title": "Konnektoren & Adverbien (gehoben)",
+   "emoji": "🔗",
+   "words": [
+    {
+     "it": "peraltro",
+     "de": "im Übrigen / zudem"
+    },
+    {
+     "it": "altresì",
+     "de": "ebenso / ferner"
+    },
+    {
+     "it": "bensì",
+     "de": "sondern"
+    },
+    {
+     "it": "eppure",
+     "de": "und doch"
+    },
+    {
+     "it": "qualora",
+     "de": "falls"
+    },
+    {
+     "it": "laddove",
+     "de": "wohingegen / wo"
+    },
+    {
+     "it": "giacché",
+     "de": "da ja"
+    },
+    {
+     "it": "poiché",
+     "de": "da / weil"
+    },
+    {
+     "it": "dal momento che",
+     "de": "da ja / zumal"
+    },
+    {
+     "it": "in quanto",
+     "de": "insofern als / weil"
+    },
+    {
+     "it": "ossia",
+     "de": "das heißt"
+    },
+    {
+     "it": "ovvero",
+     "de": "beziehungsweise / oder"
+    },
+    {
+     "it": "vale a dire",
+     "de": "das heißt / nämlich"
+    },
+    {
+     "it": "nella fattispecie",
+     "de": "im vorliegenden Fall"
+    },
+    {
+     "it": "per l'appunto",
+     "de": "eben / genau"
+    },
+    {
+     "it": "in sostanza",
+     "de": "im Wesentlichen"
+    },
+    {
+     "it": "in definitiva",
+     "de": "letztendlich"
+    },
+    {
+     "it": "in ultima analisi",
+     "de": "letzten Endes"
+    },
+    {
+     "it": "di conseguenza",
+     "de": "folglich"
+    },
+    {
+     "it": "ne consegue che",
+     "de": "daraus folgt, dass"
+    },
+    {
+     "it": "alla luce di",
+     "de": "angesichts"
+    },
+    {
+     "it": "a prescindere da",
+     "de": "unabhängig von"
+    },
+    {
+     "it": "fermo restando che",
+     "de": "vorausgesetzt, dass"
+    },
+    {
+     "it": "in virtù di",
+     "de": "kraft / aufgrund"
+    },
+    {
+     "it": "a fronte di",
+     "de": "gegenüber / angesichts von"
+    },
+    {
+     "it": "viceversa",
+     "de": "umgekehrt"
+    },
+    {
+     "it": "parimenti",
+     "de": "gleichermaßen"
+    },
+    {
+     "it": "tantomeno",
+     "de": "geschweige denn"
+    },
+    {
+     "it": "nondimeno",
+     "de": "nichtsdestoweniger"
+    },
+    {
+     "it": "oltretutto",
+     "de": "obendrein"
+    },
+    {
+     "it": "segnatamente",
+     "de": "insbesondere"
+    },
+    {
+     "it": "pressoché",
+     "de": "nahezu"
+    },
+    {
+     "it": "alquanto",
+     "de": "ziemlich"
+    }
+   ]
+  }
+ ]
+}
